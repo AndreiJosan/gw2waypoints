@@ -24,6 +24,9 @@ document.addEventListener("DOMContentLoaded", function() {
 
   // FOCUS
   searchInput.focus();
+  searchInput.addEventListener('click', function() {
+    searchInput.select();
+  });
 
 
   // SEARCH CLEAR
@@ -96,6 +99,8 @@ document.addEventListener("DOMContentLoaded", function() {
       });
     });
 
-    document.querySelector('.no-results span').addEventListener('click', clearSearchInput);
+    if (document.querySelector('.no-results span')) {
+      document.querySelector('.no-results span').addEventListener('click', clearSearchInput)
+    }
   });
 });
