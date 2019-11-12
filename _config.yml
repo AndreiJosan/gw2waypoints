@@ -1,0 +1,12 @@
+title: GW2WP - Guild Wars 2 Waypoint Codes
+description: Wee
+baseurl: ""
+permalink: "/:title"
+url: "https://wpthemeslike.io"
+
+plugins:
+  - jekyll-autoprefixer
+
+sass:
+  sass_dir: _sass
+  style: compressed

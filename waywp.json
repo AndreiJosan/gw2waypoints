@@ -1,0 +1,92 @@
+[
+  {
+    "Name": "The Last Whiskey Bar Waypoint",
+    "Code": "[&BPkBAAA=]",
+    "Map": "Blazeridge Steppes"
+  },
+  {
+    "Name": "Steeleye Waypoint",
+    "Code": "[&BPoBAAA=]",
+    "Map": "Blazeridge Steppes"
+  },
+  {
+    "Name": "Tumok's Waypoint",
+    "Code": "[&BPsBAAA=]",
+    "Map": "Blazeridge Steppes"
+  },
+  {
+    "Name": "Twin Sisters Waypoint",
+    "Code": "[&BPwBAAA=]",
+    "Map": "Blazeridge Steppes"
+  },
+  {
+    "Name": "Behem Waypoint",
+    "Code": "[&BP0BAAA=]",
+    "Map": "Blazeridge Steppes"
+  },
+  {
+    "Name": "Expanse Waypoint",
+    "Code": "[&BP4BAAA=]",
+    "Map": "Blazeridge Steppes"
+  },
+  {
+    "Name": "Guardian Stone Waypoint",
+    "Code": "[&BP8BAAA=]",
+    "Map": "Blazeridge Steppes"
+  },
+  {
+    "Name": "Lunk Kraal Waypoint",
+    "Code": "[&BAACAAA=]",
+    "Map": "Blazeridge Steppes"
+  },
+  {
+    "Name": "Terra Carorunda Waypoint",
+    "Code": "[&BAECAAA=]",
+    "Map": "Blazeridge Steppes"
+  },
+  {
+    "Name": "Brokentooth Waypoint",
+    "Code": "[&BAICAAA=]",
+    "Map": "Blazeridge Steppes"
+  },
+  {
+    "Name": "Kindling Waypoint",
+    "Code": "[&BAMCAAA=]",
+    "Map": "Blazeridge Steppes"
+  },
+  {
+    "Name": "Brandview Waypoint",
+    "Code": "[&BAQCAAA=]",
+    "Map": "Blazeridge Steppes"
+  },
+  {
+    "Name": "Refuge Sanctum Waypoint",
+    "Code": "[&BAUCAAA=]",
+    "Map": "Blazeridge Steppes"
+  },
+  {
+    "Name": "Lowland Burns Waypoint",
+    "Code": "[&BE4DAAA=]",
+    "Map": "Blazeridge Steppes"
+  },
+  {
+    "Name": "Gastor Gullet Waypoint",
+    "Code": "[&BE8DAAA=]",
+    "Map": "Blazeridge Steppes"
+  },
+  {
+    "Name": "Kinar Fort Waypoint",
+    "Code": "[&BFADAAA=]",
+    "Map": "Blazeridge Steppes"
+  },
+  {
+    "Name": "Splintercrest Fort Waypoint",
+    "Code": "[&BFEDAAA=]",
+    "Map": "Blazeridge Steppes"
+  },
+  {
+    "Name": "Soot Road Waypoint",
+    "Code": "[&BFIDAAA=]",
+    "Map": "Blazeridge Steppes"
+  }
+]

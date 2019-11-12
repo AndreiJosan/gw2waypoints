@@ -1,0 +1,11 @@
+body {
+  background-image: url("/assets/img/bg.jpg");
+  background-size: cover;
+  background-position: top center;
+  background-attachment: fixed;
+  overflow: auto !important;
+}
+
+#results-container {
+  margin-bottom: 4rem;
+}
