@@ -1,92 +1,2997 @@
 [
-  {
-    "Name": "The Last Whiskey Bar Waypoint",
-    "Code": "[&BPkBAAA=]",
-    "Map": "Blazeridge Steppes"
-  },
-  {
-    "Name": "Steeleye Waypoint",
-    "Code": "[&BPoBAAA=]",
-    "Map": "Blazeridge Steppes"
-  },
-  {
-    "Name": "Tumok's Waypoint",
-    "Code": "[&BPsBAAA=]",
-    "Map": "Blazeridge Steppes"
-  },
-  {
-    "Name": "Twin Sisters Waypoint",
-    "Code": "[&BPwBAAA=]",
-    "Map": "Blazeridge Steppes"
-  },
-  {
-    "Name": "Behem Waypoint",
-    "Code": "[&BP0BAAA=]",
-    "Map": "Blazeridge Steppes"
-  },
-  {
-    "Name": "Expanse Waypoint",
-    "Code": "[&BP4BAAA=]",
-    "Map": "Blazeridge Steppes"
-  },
-  {
-    "Name": "Guardian Stone Waypoint",
-    "Code": "[&BP8BAAA=]",
-    "Map": "Blazeridge Steppes"
-  },
-  {
-    "Name": "Lunk Kraal Waypoint",
-    "Code": "[&BAACAAA=]",
-    "Map": "Blazeridge Steppes"
-  },
-  {
-    "Name": "Terra Carorunda Waypoint",
-    "Code": "[&BAECAAA=]",
-    "Map": "Blazeridge Steppes"
-  },
-  {
-    "Name": "Brokentooth Waypoint",
-    "Code": "[&BAICAAA=]",
-    "Map": "Blazeridge Steppes"
-  },
-  {
-    "Name": "Kindling Waypoint",
-    "Code": "[&BAMCAAA=]",
-    "Map": "Blazeridge Steppes"
-  },
-  {
-    "Name": "Brandview Waypoint",
-    "Code": "[&BAQCAAA=]",
-    "Map": "Blazeridge Steppes"
-  },
-  {
-    "Name": "Refuge Sanctum Waypoint",
-    "Code": "[&BAUCAAA=]",
-    "Map": "Blazeridge Steppes"
-  },
-  {
-    "Name": "Lowland Burns Waypoint",
-    "Code": "[&BE4DAAA=]",
-    "Map": "Blazeridge Steppes"
-  },
-  {
-    "Name": "Gastor Gullet Waypoint",
-    "Code": "[&BE8DAAA=]",
-    "Map": "Blazeridge Steppes"
-  },
-  {
-    "Name": "Kinar Fort Waypoint",
-    "Code": "[&BFADAAA=]",
-    "Map": "Blazeridge Steppes"
-  },
-  {
-    "Name": "Splintercrest Fort Waypoint",
-    "Code": "[&BFEDAAA=]",
-    "Map": "Blazeridge Steppes"
-  },
-  {
-    "Name": "Soot Road Waypoint",
-    "Code": "[&BFIDAAA=]",
-    "Map": "Blazeridge Steppes"
-  }
+   {
+      "Name": "The Last Whiskey Bar Waypoint",
+      "Code": "[&BPkBAAA=]",
+      "Map": "Blazeridge Steppes"
+   },
+   {
+      "Name": "Steeleye Waypoint",
+      "Code": "[&BPoBAAA=]",
+      "Map": "Blazeridge Steppes"
+   },
+   {
+      "Name": "Tumok's Waypoint",
+      "Code": "[&BPsBAAA=]",
+      "Map": "Blazeridge Steppes"
+   },
+   {
+      "Name": "Twin Sisters Waypoint",
+      "Code": "[&BPwBAAA=]",
+      "Map": "Blazeridge Steppes"
+   },
+   {
+      "Name": "Behem Waypoint",
+      "Code": "[&BP0BAAA=]",
+      "Map": "Blazeridge Steppes"
+   },
+   {
+      "Name": "Expanse Waypoint",
+      "Code": "[&BP4BAAA=]",
+      "Map": "Blazeridge Steppes"
+   },
+   {
+      "Name": "Guardian Stone Waypoint",
+      "Code": "[&BP8BAAA=]",
+      "Map": "Blazeridge Steppes"
+   },
+   {
+      "Name": "Lunk Kraal Waypoint",
+      "Code": "[&BAACAAA=]",
+      "Map": "Blazeridge Steppes"
+   },
+   {
+      "Name": "Terra Carorunda Waypoint",
+      "Code": "[&BAECAAA=]",
+      "Map": "Blazeridge Steppes"
+   },
+   {
+      "Name": "Brokentooth Waypoint",
+      "Code": "[&BAICAAA=]",
+      "Map": "Blazeridge Steppes"
+   },
+   {
+      "Name": "Kindling Waypoint",
+      "Code": "[&BAMCAAA=]",
+      "Map": "Blazeridge Steppes"
+   },
+   {
+      "Name": "Brandview Waypoint",
+      "Code": "[&BAQCAAA=]",
+      "Map": "Blazeridge Steppes"
+   },
+   {
+      "Name": "Refuge Sanctum Waypoint",
+      "Code": "[&BAUCAAA=]",
+      "Map": "Blazeridge Steppes"
+   },
+   {
+      "Name": "Lowland Burns Waypoint",
+      "Code": "[&BE4DAAA=]",
+      "Map": "Blazeridge Steppes"
+   },
+   {
+      "Name": "Gastor Gullet Waypoint",
+      "Code": "[&BE8DAAA=]",
+      "Map": "Blazeridge Steppes"
+   },
+   {
+      "Name": "Kinar Fort Waypoint",
+      "Code": "[&BFADAAA=]",
+      "Map": "Blazeridge Steppes"
+   },
+   {
+      "Name": "Splintercrest Fort Waypoint",
+      "Code": "[&BFEDAAA=]",
+      "Map": "Blazeridge Steppes"
+   },
+   {
+      "Name": "Soot Road Waypoint",
+      "Code": "[&BFIDAAA=]",
+      "Map": "Blazeridge Steppes"
+   },
+   {},
+   {},
+   {
+      "Name": "Blasted Moors Waypoint",
+      "Code": "[&BNsAAAA=]",
+      "Map": "Diessa Plateau"
+   },
+   {
+      "Name": "Bloodsaw Mill Waypoint",
+      "Code": "[&BNsAAAA=]",
+      "Map": "Diessa Plateau"
+   },
+   {
+      "Name": "Font of Rhand Waypoint",
+      "Code": "[&BNwAAAA=]",
+      "Map": "Diessa Plateau"
+   },
+   {
+      "Name": "Nageling Waypoint",
+      "Code": "[&BN0AAAA=]",
+      "Map": "Diessa Plateau"
+   },
+   {
+      "Name": "Nolan Waypoint",
+      "Code": "[&BN4AAAA=]",
+      "Map": "Diessa Plateau"
+   },
+   {
+      "Name": "Oldgate Waypoint",
+      "Code": "[&BF4BAAA=]",
+      "Map": "Diessa Plateau"
+   },
+   {
+      "Name": "Butcher's Block Waypoint",
+      "Code": "[&BF8BAAA=]",
+      "Map": "Diessa Plateau"
+   },
+   {
+      "Name": "Charradis Estate Waypoint",
+      "Code": "[&BGABAAA=]",
+      "Map": "Diessa Plateau"
+   },
+   {
+      "Name": "Breached Wall Waypoint",
+      "Code": "[&BGEBAAA=]",
+      "Map": "Diessa Plateau"
+   },
+   {
+      "Name": "Incendio Waypoint",
+      "Code": "[&BGIBAAA=]",
+      "Map": "Diessa Plateau"
+   },
+   {
+      "Name": "Nemus Grove Waypoint",
+      "Code": "[&BGMBAAA=]",
+      "Map": "Diessa Plateau"
+   },
+   {
+      "Name": "Breachwater Waypoint",
+      "Code": "[&BGQBAAA=]",
+      "Map": "Diessa Plateau"
+   },
+   {
+      "Name": "Dawnright Estate Waypoint",
+      "Code": "[&BJoDAAA=]",
+      "Map": "Diessa Plateau"
+   },
+   {
+      "Name": "Bloodcliff Waypoint",
+      "Code": "[&BMQDAAA=]",
+      "Map": "Diessa Plateau"
+   },
+   {
+      "Name": "Sanctum Waypoint",
+      "Code": "[&BMUDAAA=]",
+      "Map": "Diessa Plateau"
+   },
+   {
+      "Name": "Redreave Mill Waypoint",
+      "Code": "[&BMYDAAA=]",
+      "Map": "Diessa Plateau"
+   },
+   {
+      "Name": "Manbane's Waypoint",
+      "Code": "[&BMkDAAA=]",
+      "Map": "Diessa Plateau"
+   },
+   {
+      "Name": "Blackblade Waypoint",
+      "Code": "[&BEIEAAA=]",
+      "Map": "Diessa Plateau"
+   },
+   {},
+   {},
+   {
+      "Name": "Hawkgates Waypoint",
+      "Code": "[&BNMAAAA=]",
+      "Map": "Fields of Ruin"
+   },
+   {
+      "Name": "Deathblade's Watch Waypoint",
+      "Code": "[&BNQAAAA=]",
+      "Map": "Fields of Ruin"
+   },
+   {
+      "Name": "Summit Waypoint",
+      "Code": "[&BNUAAAA=]",
+      "Map": "Fields of Ruin"
+   },
+   {
+      "Name": "Tyler's Bivouac Waypoint",
+      "Code": "[&BNYAAAA=]",
+      "Map": "Fields of Ruin"
+   },
+   {
+      "Name": "Tenaebron Waypoint",
+      "Code": "[&BNcAAAA=]",
+      "Map": "Fields of Ruin"
+   },
+   {
+      "Name": "Rosko's Campsite Waypoint",
+      "Code": "[&BNgAAAA=]",
+      "Map": "Fields of Ruin"
+   },
+   {
+      "Name": "Skoll's Bivouac Waypoint",
+      "Code": "[&BEoBAAA=]",
+      "Map": "Fields of Ruin"
+   },
+   {
+      "Name": "Helliot Mine Waypoint",
+      "Code": "[&BEsBAAA=]",
+      "Map": "Fields of Ruin"
+   },
+   {
+      "Name": "Fangfury Watch Waypoint",
+      "Code": "[&BEwBAAA=]",
+      "Map": "Fields of Ruin"
+   },
+   {
+      "Name": "Vulture's Waypoint",
+      "Code": "[&BE0BAAA=]",
+      "Map": "Fields of Ruin"
+   },
+   {
+      "Name": "Wreckage of Bloodgorge Watch Waypoint",
+      "Code": "[&BE4BAAA=]",
+      "Map": "Fields of Ruin"
+   },
+   {
+      "Name": "Ogre Road Waypoint",
+      "Code": "[&BE8BAAA=]",
+      "Map": "Fields of Ruin"
+   },
+   {
+      "Name": "Forlorn Gate Waypoint",
+      "Code": "[&BFABAAA=]",
+      "Map": "Fields of Ruin"
+   },
+   {
+      "Name": "Fallen Angels Garrison Waypoint",
+      "Code": "[&BFEBAAA=]",
+      "Map": "Fields of Ruin"
+   },
+   {
+      "Name": "Spotter's Waypoint",
+      "Code": "[&BDwEAAA=]",
+      "Map": "Fields of Ruin"
+   },
+   {
+      "Name": "Kestrel Waypoint",
+      "Code": "[&BD0EAAA=]",
+      "Map": "Fields of Ruin"
+   },
+   {
+      "Name": "Thunderbreak Waypoint",
+      "Code": "[&BD4EAAA=]",
+      "Map": "Fields of Ruin"
+   },
+   {},
+   {},
+   {
+      "Name": "Sati Waypoint",
+      "Code": "[&BBYCAAA=]",
+      "Map": "Fireheart Rise"
+   },
+   {
+      "Name": "Pig Iron Waypoint",
+      "Code": "[&BBcCAAA=]",
+      "Map": "Fireheart Rise"
+   },
+   {
+      "Name": "Tuyere Command Post Waypoint",
+      "Code": "[&BBgCAAA=]",
+      "Map": "Fireheart Rise"
+   },
+   {
+      "Name": "Severed Breach Waypoint",
+      "Code": "[&BBkCAAA=]",
+      "Map": "Fireheart Rise"
+   },
+   {
+      "Name": "Breaktooth's Waypoint",
+      "Code": "[&BBoCAAA=]",
+      "Map": "Fireheart Rise"
+   },
+   {
+      "Name": "Havoc Waypoint",
+      "Code": "[&BBsCAAA=]",
+      "Map": "Fireheart Rise"
+   },
+   {
+      "Name": "Vidius Castrum Waypoint",
+      "Code": "[&BBwCAAA=]",
+      "Map": "Fireheart Rise"
+   },
+   {
+      "Name": "Apostate Waypoint",
+      "Code": "[&BB0CAAA=]",
+      "Map": "Fireheart Rise"
+   },
+   {
+      "Name": "Rustbowl Waypoint",
+      "Code": "[&BB4CAAA=]",
+      "Map": "Fireheart Rise"
+   },
+   {
+      "Name": "Switchback Waypoint",
+      "Code": "[&BB8CAAA=]",
+      "Map": "Fireheart Rise"
+   },
+   {
+      "Name": "Icespear's Waypoint",
+      "Code": "[&BCACAAA=]",
+      "Map": "Fireheart Rise"
+   },
+   {
+      "Name": "Snow Ridge Camp Waypoint",
+      "Code": "[&BCECAAA=]",
+      "Map": "Fireheart Rise"
+   },
+   {
+      "Name": "Vorgas Garrison Waypoint",
+      "Code": "[&BCICAAA=]",
+      "Map": "Fireheart Rise"
+   },
+   {
+      "Name": "Forlorn Waypoint",
+      "Code": "[&BCMCAAA=]",
+      "Map": "Fireheart Rise"
+   },
+   {
+      "Name": "Senecus Castrum Waypoint",
+      "Code": "[&BCQCAAA=]",
+      "Map": "Fireheart Rise"
+   },
+   {
+      "Name": "Simurgh Waypoint",
+      "Code": "[&BCUCAAA=]",
+      "Map": "Fireheart Rise"
+   },
+   {
+      "Name": "Keeper's Waypoint",
+      "Code": "[&BCYCAAA=]",
+      "Map": "Fireheart Rise"
+   },
+   {
+      "Name": "The Flame Citadel Waypoint",
+      "Code": "[&BEAFAAA=]",
+      "Map": "Fireheart Rise"
+   },
+   {},
+   {},
+   {
+      "Name": "Dewclaw Waypoint",
+      "Code": "[&BOIBAAA=]",
+      "Map": "Iron Marches"
+   },
+   {
+      "Name": "Bloodfin Lake Waypoint",
+      "Code": "[&BOMBAAA=]",
+      "Map": "Iron Marches"
+   },
+   {
+      "Name": "Old Piken Ruins Waypoint",
+      "Code": "[&BOQBAAA=]",
+      "Map": "Iron Marches"
+   },
+   {
+      "Name": "Warhound Village Waypoint",
+      "Code": "[&BOUBAAA=]",
+      "Map": "Iron Marches"
+   },
+   {
+      "Name": "Hellion Waypoint",
+      "Code": "[&BOABAAA=]",
+      "Map": "Iron Marches"
+   },
+   {
+      "Name": "Village of Scalecatch Waypoint",
+      "Code": "[&BOcBAAA=]",
+      "Map": "Iron Marches"
+   },
+   {
+      "Name": "Sleekfur Encampment Waypoint",
+      "Code": "[&BOgBAAA=]",
+      "Map": "Iron Marches"
+   },
+   {
+      "Name": "Brandwatch Encampment Waypoint",
+      "Code": "[&BOkBAAA=]",
+      "Map": "Iron Marches"
+   },
+   {
+      "Name": "Viper's Run Waypoint",
+      "Code": "[&BOoBAAA=]",
+      "Map": "Iron Marches"
+   },
+   {
+      "Name": "Town of Cowlfang's Star Waypoint",
+      "Code": "[&BOsBAAA=]",
+      "Map": "Iron Marches"
+   },
+   {
+      "Name": "Bulwark Waypoint",
+      "Code": "[&BOwBAAA=]",
+      "Map": "Iron Marches"
+   },
+   {
+      "Name": "Firewatch Encampment Waypoint",
+      "Code": "[&BO0BAAA=]",
+      "Map": "Iron Marches"
+   },
+   {
+      "Name": "Gladefall Waypoint",
+      "Code": "[&BO4BAAA=]",
+      "Map": "Iron Marches"
+   },
+   {
+      "Name": "Grostogg's Kraal Waypoint",
+      "Code": "[&BO8BAAA=]",
+      "Map": "Iron Marches"
+   },
+   {},
+   {},
+   {
+      "Name": "Vir's Gate Waypoint",
+      "Code": "[&BH8BAAA=]",
+      "Map": "Plains of Ashford"
+   },
+   {
+      "Name": "Smokestead Waypoint",
+      "Code": "[&BIABAAA=]",
+      "Map": "Plains of Ashford"
+   },
+   {
+      "Name": "Greysteel Armory Waypoint",
+      "Code": "[&BIEBAAA=]",
+      "Map": "Plains of Ashford"
+   },
+   {
+      "Name": "Martyr's Waypoint",
+      "Code": "[&BIIBAAA=]",
+      "Map": "Plains of Ashford"
+   },
+   {
+      "Name": "Temperus Point Waypoint",
+      "Code": "[&BIMBAAA=]",
+      "Map": "Plains of Ashford"
+   },
+   {
+      "Name": "Ashford Waypoint",
+      "Code": "[&BIQBAAA=]",
+      "Map": "Plains of Ashford"
+   },
+   {
+      "Name": "Adorea Waypoint",
+      "Code": "[&BIUBAAA=]",
+      "Map": "Plains of Ashford"
+   },
+   {
+      "Name": "Ascalonian Catacombs Waypoint",
+      "Code": "[&BIYBAAA=]",
+      "Map": "Plains of Ashford"
+   },
+   {
+      "Name": "Ascalon City Waypoint",
+      "Code": "[&BIcBAAA=]",
+      "Map": "Plains of Ashford"
+   },
+   {
+      "Name": "Watchcrag Tower Waypoint",
+      "Code": "[&BIgBAAA=]",
+      "Map": "Plains of Ashford"
+   },
+   {
+      "Name": "Duskrend Overlook Waypoint",
+      "Code": "[&BIkBAAA=]",
+      "Map": "Plains of Ashford"
+   },
+   {
+      "Name": "Irondock Shipyard Waypoint",
+      "Code": "[&BIoBAAA=]",
+      "Map": "Plains of Ashford"
+   },
+   {
+      "Name": "Feritas Waypoint",
+      "Code": "[&BJcDAAA=]",
+      "Map": "Plains of Ashford"
+   },
+   {
+      "Name": "Guardpoint Decimus Waypoint",
+      "Code": "[&BJgDAAA=]",
+      "Map": "Plains of Ashford"
+   },
+   {
+      "Name": "Spirit Hunter Camp Waypoint",
+      "Code": "[&BJkDAAA=]",
+      "Map": "Plains of Ashford"
+   },
+   {
+      "Name": "Loreclaw Waypoint",
+      "Code": "[&BMcDAAA=]",
+      "Map": "Plains of Ashford"
+   },
+   {
+      "Name": "Phasmatis Waypoint",
+      "Code": "[&BMgDAAA=]",
+      "Map": "Plains of Ashford"
+   },
+   {
+      "Name": "Vault Waypoint",
+      "Code": "[&BHIEAAA=]",
+      "Map": "Plains of Ashford"
+   },
+   {
+      "Name": "Langmar Estate",
+      "Code": "[&BPgGAAA=]",
+      "Map": "Plains of Ashford"
+   },
+   {},
+   {},
+   {
+      "Name": "Archen Foreland Waypoint",
+      "Code": "[&BKMBAAA=]",
+      "Map": "Bloodtide Coast"
+   },
+   {
+      "Name": "Sorrowful Waypoint",
+      "Code": "[&BKQBAAA=]",
+      "Map": "Bloodtide Coast"
+   },
+   {
+      "Name": "Stormbluff Waypoint",
+      "Code": "[&BKUBAAA=]",
+      "Map": "Bloodtide Coast"
+   },
+   {
+      "Name": "Marshwatch Haven Waypoint",
+      "Code": "[&BKYBAAA=]",
+      "Map": "Bloodtide Coast"
+   },
+   {
+      "Name": "Remanda Waypoint",
+      "Code": "[&BKcBAAA=]",
+      "Map": "Bloodtide Coast"
+   },
+   {
+      "Name": "Laughing Gull Waypoint",
+      "Code": "[&BKgBAAA=]",
+      "Map": "Bloodtide Coast"
+   },
+   {
+      "Name": "Barrier Camp Waypoint",
+      "Code": "[&BKkBAAA=]",
+      "Map": "Bloodtide Coast"
+   },
+   {
+      "Name": "Firthside Vigil Waypoint",
+      "Code": "[&BKoBAAA=]",
+      "Map": "Bloodtide Coast"
+   },
+   {
+      "Name": "Lostwreck Waypoint",
+      "Code": "[&BKsBAAA=]",
+      "Map": "Bloodtide Coast"
+   },
+   {
+      "Name": "Bogside Camp Waypoint",
+      "Code": "[&BKwBAAA=]",
+      "Map": "Bloodtide Coast"
+   },
+   {
+      "Name": "Mournful Waypoint",
+      "Code": "[&BK0BAAA=]",
+      "Map": "Bloodtide Coast"
+   },
+   {
+      "Name": "Castavall Waypoint",
+      "Code": "[&BK4BAAA=]",
+      "Map": "Bloodtide Coast"
+   },
+   {
+      "Name": "Jelako Waypoint",
+      "Code": "[&BK8BAAA=]",
+      "Map": "Bloodtide Coast"
+   },
+   {
+      "Name": "Whisperwill Waypoint",
+      "Code": "[&BLABAAA=]",
+      "Map": "Bloodtide Coast"
+   },
+   {
+      "Name": "Deadend Waypoint",
+      "Code": "[&BAsEAAA=]",
+      "Map": "Bloodtide Coast"
+   },
+   {},
+   {},
+   {
+      "Name": "Traveler's Dale Waypoint",
+      "Code": "[&BN8AAAA=]",
+      "Map": "Gendarran Fields"
+   },
+   {
+      "Name": "Stoneguard Gate Waypoint",
+      "Code": "[&BOAAAAA=]",
+      "Map": "Gendarran Fields"
+   },
+   {
+      "Name": "Broadhollow Waypoint",
+      "Code": "[&BOEAAAA=]",
+      "Map": "Gendarran Fields"
+   },
+   {
+      "Name": "Oogooth Waypoint",
+      "Code": "[&BOIAAAA=]",
+      "Map": "Gendarran Fields"
+   },
+   {
+      "Name": "Cornucopian Fields Waypoint",
+      "Code": "[&BOMAAAA=]",
+      "Map": "Gendarran Fields"
+   },
+   {
+      "Name": "Provern Shore Waypoint",
+      "Code": "[&BOQAAAA=]",
+      "Map": "Gendarran Fields"
+   },
+   {
+      "Name": "Junction Haven Waypoint",
+      "Code": "[&BO0AAAA=]",
+      "Map": "Gendarran Fields"
+   },
+   {
+      "Name": "Winter Haven Waypoint",
+      "Code": "[&BO4AAAA=]",
+      "Map": "Gendarran Fields"
+   },
+   {
+      "Name": "First Haven Waypoint",
+      "Code": "[&BIsBAAA=]",
+      "Map": "Gendarran Fields"
+   },
+   {
+      "Name": "Talajian Waypoint",
+      "Code": "[&BIwBAAA=]",
+      "Map": "Gendarran Fields"
+   },
+   {
+      "Name": "Ascalon Settlement Waypoint",
+      "Code": "[&BI0BAAA=]",
+      "Map": "Gendarran Fields"
+   },
+   {
+      "Name": "Nebo Terrace Waypoint",
+      "Code": "[&BI4BAAA=]",
+      "Map": "Gendarran Fields"
+   },
+   {
+      "Name": "Blood Hill Waypoint",
+      "Code": "[&BI8BAAA=]",
+      "Map": "Gendarran Fields"
+   },
+   {
+      "Name": "Northfields Waypoint",
+      "Code": "[&BJABAAA=]",
+      "Map": "Gendarran Fields"
+   },
+   {
+      "Name": "Applenook Hamlet Waypoint",
+      "Code": "[&BJEBAAA=]",
+      "Map": "Gendarran Fields"
+   },
+   {
+      "Name": "Vigil Keep Waypoint",
+      "Code": "[&BJIBAAA=]",
+      "Map": "Gendarran Fields"
+   },
+   {
+      "Name": "Icegate Waypoint",
+      "Code": "[&BJMBAAA=]",
+      "Map": "Gendarran Fields"
+   },
+   {
+      "Name": "Almuten Waypoint",
+      "Code": "[&BJQBAAA=]",
+      "Map": "Gendarran Fields"
+   },
+   {
+      "Name": "Lionbridge Waypoint",
+      "Code": "[&BJsDAAA=]",
+      "Map": "Gendarran Fields"
+   },
+   {
+      "Name": "Snowblind Waypoint",
+      "Code": "[&BMwDAAA=]",
+      "Map": "Gendarran Fields"
+   },
+   {
+      "Name": "Brigantine Waypoint",
+      "Code": "[&BM0DAAA=]",
+      "Map": "Gendarran Fields"
+   },
+   {
+      "Name": "Bloodfields Waypoint",
+      "Code": "[&BAIEAAA=]",
+      "Map": "Gendarran Fields"
+   },
+   {},
+   {},
+   {
+      "Name": "Faun's Waypoint",
+      "Code": "[&BKUAAAA=]",
+      "Map": "Harathi Hinterlands"
+   },
+   {
+      "Name": "Shieldbluff Waypoint",
+      "Code": "[&BKYAAAA=]",
+      "Map": "Harathi Hinterlands"
+   },
+   {
+      "Name": "Seraph's Landing Waypoint",
+      "Code": "[&BKcAAAA=]",
+      "Map": "Harathi Hinterlands"
+   },
+   {
+      "Name": "Wynchona Rally Point Waypoint",
+      "Code": "[&BKgAAAA=]",
+      "Map": "Harathi Hinterlands"
+   },
+   {
+      "Name": "Grey Gritta's Waypoint",
+      "Code": "[&BKkAAAA=]",
+      "Map": "Harathi Hinterlands"
+   },
+   {
+      "Name": "Nightguard Waypoint",
+      "Code": "[&BKoAAAA=]",
+      "Map": "Harathi Hinterlands"
+   },
+   {
+      "Name": "Demetra Waypoint",
+      "Code": "[&BKsAAAA=]",
+      "Map": "Harathi Hinterlands"
+   },
+   {
+      "Name": "Recovery Camp Waypoint",
+      "Code": "[&BKwAAAA=]",
+      "Map": "Harathi Hinterlands"
+   },
+   {
+      "Name": "Barricade Camp Waypoint",
+      "Code": "[&BK0AAAA=]",
+      "Map": "Harathi Hinterlands"
+   },
+   {
+      "Name": "Trebusha's Overlook Waypoint",
+      "Code": "[&BK4AAAA=]",
+      "Map": "Harathi Hinterlands"
+   },
+   {
+      "Name": "Bridgewatch Camp Waypoint",
+      "Code": "[&BK8AAAA=]",
+      "Map": "Harathi Hinterlands"
+   },
+   {
+      "Name": "Junction Camp Waypoint",
+      "Code": "[&BLAAAAA=]",
+      "Map": "Harathi Hinterlands"
+   },
+   {
+      "Name": "Cloven Hoof Waypoint",
+      "Code": "[&BLEAAAA=]",
+      "Map": "Harathi Hinterlands"
+   },
+   {
+      "Name": "Arca Waypoint",
+      "Code": "[&BLIAAAA=]",
+      "Map": "Harathi Hinterlands"
+   },
+   {
+      "Name": "Arcallion Waypoint",
+      "Code": "[&BMMAAAA=]",
+      "Map": "Harathi Hinterlands"
+   },
+   {},
+   {},
+   {
+      "Name": "Fort Salma Waypoint",
+      "Code": "[&BAMAAAA=]",
+      "Map": "Kessex Hills"
+   },
+   {
+      "Name": "Overlord's Waypoint",
+      "Code": "[&BAQAAAA=]",
+      "Map": "Kessex Hills"
+   },
+   {
+      "Name": "Meadows Waypoint",
+      "Code": "[&BAUAAAA=]",
+      "Map": "Kessex Hills"
+   },
+   {
+      "Name": "Halacon Waypoint",
+      "Code": "[&BAYAAAA=]",
+      "Map": "Kessex Hills"
+   },
+   {
+      "Name": "Sojourner's Waypoint",
+      "Code": "[&BAcAAAA=]",
+      "Map": "Kessex Hills"
+   },
+   {
+      "Name": "Delanian Waypoint",
+      "Code": "[&BAgAAAA=]",
+      "Map": "Kessex Hills"
+   },
+   {
+      "Name": "Ireko Tradecamp Waypoint",
+      "Code": "[&BAoAAAA=]",
+      "Map": "Kessex Hills"
+   },
+   {
+      "Name": "Shadowheart Site Waypoint",
+      "Code": "[&BAwAAAA=]",
+      "Map": "Kessex Hills"
+   },
+   {
+      "Name": "Moogooloo Waypoint",
+      "Code": "[&BA4AAAA=]",
+      "Map": "Kessex Hills"
+   },
+   {
+      "Name": "Viathan Waypoint",
+      "Code": "[&BBAAAAA=]",
+      "Map": "Kessex Hills"
+   },
+   {
+      "Name": "Darkwound Waypoint",
+      "Code": "[&BBEAAAA=]",
+      "Map": "Kessex Hills"
+   },
+   {
+      "Name": "Cereboth Waypoint",
+      "Code": "[&BBIAAAA=]",
+      "Map": "Kessex Hills"
+   },
+   {
+      "Name": "Overlake Haven Waypoint",
+      "Code": "[&BBMAAAA=]",
+      "Map": "Kessex Hills"
+   },
+   {
+      "Name": "Kessex Haven Waypoint",
+      "Code": "[&BBQAAAA=]",
+      "Map": "Kessex Hills"
+   },
+   {
+      "Name": "Cavernhold Camp Waypoint",
+      "Code": "[&BBUAAAA=]",
+      "Map": "Kessex Hills"
+   },
+   {
+      "Name": "Greyhoof Camp Waypoint",
+      "Code": "[&BBYAAAA=]",
+      "Map": "Kessex Hills"
+   },
+   {
+      "Name": "Earthworks Camp Waypoint",
+      "Code": "[&BLkDAAA=]",
+      "Map": "Kessex Hills"
+   },
+   {
+      "Name": "Gap Waypoint",
+      "Code": "[&BLoDAAA=]",
+      "Map": "Kessex Hills"
+   },
+   {},
+   {},
+   {
+      "Name": "Shaemoor Waypoint",
+      "Code": "[&BO8AAAA=]",
+      "Map": "Queensdale"
+   },
+   {
+      "Name": "Fields Waypoint",
+      "Code": "[&BPAAAAA=]",
+      "Map": "Queensdale"
+   },
+   {
+      "Name": "Garrison Waypoint",
+      "Code": "[&BPEAAAA=]",
+      "Map": "Queensdale"
+   },
+   {
+      "Name": "Crossing Waypoint",
+      "Code": "[&BPIAAAA=]",
+      "Map": "Queensdale"
+   },
+   {
+      "Name": "Phinney Waypoint",
+      "Code": "[&BPMAAAA=]",
+      "Map": "Queensdale"
+   },
+   {
+      "Name": "Vale Waypoint",
+      "Code": "[&BPQAAAA=]",
+      "Map": "Queensdale"
+   },
+   {
+      "Name": "Heartwood Pass Camp Waypoint",
+      "Code": "[&BPUAAAA=]",
+      "Map": "Queensdale"
+   },
+   {
+      "Name": "Claypool Waypoint",
+      "Code": "[&BPYAAAA=]",
+      "Map": "Queensdale"
+   },
+   {
+      "Name": "Swamplost Haven Waypoint",
+      "Code": "[&BPcAAAA=]",
+      "Map": "Queensdale"
+   },
+   {
+      "Name": "Krytan Waypoint",
+      "Code": "[&BPgAAAA=]",
+      "Map": "Queensdale"
+   },
+   {
+      "Name": "Ojon's Lumbermill Waypoint",
+      "Code": "[&BPkAAAA=]",
+      "Map": "Queensdale"
+   },
+   {
+      "Name": "Beetletun Waypoint",
+      "Code": "[&BPoAAAA=]",
+      "Map": "Queensdale"
+   },
+   {
+      "Name": "Tunwatch Redoubt Waypoint",
+      "Code": "[&BPsAAAA=]",
+      "Map": "Queensdale"
+   },
+   {
+      "Name": "Godslost Waypoint",
+      "Code": "[&BPwAAAA=]",
+      "Map": "Queensdale"
+   },
+   {
+      "Name": "Orchard Waypoint",
+      "Code": "[&BEQDAAA=]",
+      "Map": "Queensdale"
+   },
+   {
+      "Name": "Scaver Waypoint",
+      "Code": "[&BEUDAAA=]",
+      "Map": "Queensdale"
+   },
+   {},
+   {},
+   {
+      "Name": "Watchful Source Waypoint",
+      "Code": "[&BFwAAAA=]",
+      "Map": "Brisban Wildlands"
+   },
+   {
+      "Name": "Wendon Waypoint",
+      "Code": "[&BF0AAAA=]",
+      "Map": "Brisban Wildlands"
+   },
+   {
+      "Name": "Tunnels Waypoint",
+      "Code": "[&BF4AAAA=]",
+      "Map": "Brisban Wildlands"
+   },
+   {
+      "Name": "Hillstead Waypoint",
+      "Code": "[&BF8AAAA=]",
+      "Map": "Brisban Wildlands"
+   },
+   {
+      "Name": "East End Waypoint",
+      "Code": "[&BGAAAAA=]",
+      "Map": "Brisban Wildlands"
+   },
+   {
+      "Name": "Brilitine Waypoint",
+      "Code": "[&BGEAAAA=]",
+      "Map": "Brisban Wildlands"
+   },
+   {
+      "Name": "Seraph Observers Waypoint",
+      "Code": "[&BGIAAAA=]",
+      "Map": "Brisban Wildlands"
+   },
+   {
+      "Name": "Gallowfields Waypoint",
+      "Code": "[&BGMAAAA=]",
+      "Map": "Brisban Wildlands"
+   },
+   {
+      "Name": "Triforge Point Waypoint",
+      "Code": "[&BGQAAAA=]",
+      "Map": "Brisban Wildlands"
+   },
+   {
+      "Name": "Ulta Metamagicals Waypoint",
+      "Code": "[&BGUAAAA=]",
+      "Map": "Brisban Wildlands"
+   },
+   {
+      "Name": "Mrot Boru Waypoint",
+      "Code": "[&BHUAAAA=]",
+      "Map": "Brisban Wildlands"
+   },
+   {
+      "Name": "Mirkrise Waypoint",
+      "Code": "[&BHYAAAA=]",
+      "Map": "Brisban Wildlands"
+   },
+   {},
+   {},
+   {
+      "Name": "Astorea Waypoint",
+      "Code": "[&BDQBAAA=]",
+      "Map": "Caledon Forest"
+   },
+   {
+      "Name": "Spiral Waypoint",
+      "Code": "[&BDUBAAA=]",
+      "Map": "Caledon Forest"
+   },
+   {
+      "Name": "Caer Astorea Waypoint",
+      "Code": "[&BDYBAAA=]",
+      "Map": "Caledon Forest"
+   },
+   {
+      "Name": "Gleaner's Cove Waypoint",
+      "Code": "[&BDcBAAA=]",
+      "Map": "Caledon Forest"
+   },
+   {
+      "Name": "Brigid's Overlook Waypoint",
+      "Code": "[&BDgBAAA=]",
+      "Map": "Caledon Forest"
+   },
+   {
+      "Name": "Sperrins Waypoint",
+      "Code": "[&BDkBAAA=]",
+      "Map": "Caledon Forest"
+   },
+   {
+      "Name": "Mabon Waypoint",
+      "Code": "[&BDoBAAA=]",
+      "Map": "Caledon Forest"
+   },
+   {
+      "Name": "Town of Cathal Waypoint",
+      "Code": "[&BDsBAAA=]",
+      "Map": "Caledon Forest"
+   },
+   {
+      "Name": "Caledon Haven Waypoint",
+      "Code": "[&BDwBAAA=]",
+      "Map": "Caledon Forest"
+   },
+   {
+      "Name": "Titan's Staircase Waypoint",
+      "Code": "[&BD0BAAA=]",
+      "Map": "Caledon Forest"
+   },
+   {
+      "Name": "Falias Thorpe Waypoint",
+      "Code": "[&BD4BAAA=]",
+      "Map": "Caledon Forest"
+   },
+   {
+      "Name": "Hamlet of Annwen Waypoint",
+      "Code": "[&BD8BAAA=]",
+      "Map": "Caledon Forest"
+   },
+   {
+      "Name": "Kraitbane Haven Waypoint",
+      "Code": "[&BEABAAA=]",
+      "Map": "Caledon Forest"
+   },
+   {
+      "Name": "Wychmire Waypoint",
+      "Code": "[&BEEBAAA=]",
+      "Map": "Caledon Forest"
+   },
+   {
+      "Name": "Wardenhurst Waypoint",
+      "Code": "[&BEIBAAA=]",
+      "Map": "Caledon Forest"
+   },
+   {
+      "Name": "Lionguard Waystation Waypoint",
+      "Code": "[&BEwDAAA=]",
+      "Map": "Caledon Forest"
+   },
+   {
+      "Name": "Twilight Arbor Waypoint",
+      "Code": "[&BEEFAAA=]",
+      "Map": "Caledon Forest"
+   },
+   {
+      "Name": "Sleive's Waypoint",
+      "Code": "[&BP4FAAA=]",
+      "Map": "Caledon Forest"
+   },
+   {},
+   {},
+   {
+      "Name": "Soren Draa Waypoint",
+      "Code": "[&BEAAAAA=]",
+      "Map": "Metrica Province"
+   },
+   {
+      "Name": "Jeztar Falls Waypoint",
+      "Code": "[&BEEAAAA=]",
+      "Map": "Metrica Province"
+   },
+   {
+      "Name": "Akk Wilds Waypoint",
+      "Code": "[&BEIAAAA=]",
+      "Map": "Metrica Province"
+   },
+   {
+      "Name": "Rana Landing Complex Waypoint",
+      "Code": "[&BEMAAAA=]",
+      "Map": "Metrica Province"
+   },
+   {
+      "Name": "Arterium Haven Waypoint",
+      "Code": "[&BEQAAAA=]",
+      "Map": "Metrica Province"
+   },
+   {
+      "Name": "Hexane Regrade Waypoint",
+      "Code": "[&BEUAAAA=]",
+      "Map": "Metrica Province"
+   },
+   {
+      "Name": "Survivor's Encampment Waypoint",
+      "Code": "[&BEYAAAA=]",
+      "Map": "Metrica Province"
+   },
+   {
+      "Name": "Muridian Waypoint",
+      "Code": "[&BEcAAAA=]",
+      "Map": "Metrica Province"
+   },
+   {
+      "Name": "Desider Atum Waypoint",
+      "Code": "[&BEgAAAA=]",
+      "Map": "Metrica Province"
+   },
+   {
+      "Name": "Old Golem Factory Waypoint",
+      "Code": "[&BK4EAAA=]",
+      "Map": "Metrica Province"
+   },
+   {
+      "Name": "Loch Waypoint",
+      "Code": "[&BK8EAAA=]",
+      "Map": "Metrica Province"
+   },
+   {
+      "Name": "Anthill Waypoint",
+      "Code": "[&BLAEAAA=]",
+      "Map": "Metrica Province"
+   },
+   {
+      "Name": "Michotl Grounds Waypoint",
+      "Code": "[&BLEEAAA=]",
+      "Map": "Metrica Province"
+   },
+   {
+      "Name": "Cuatl Waypoint",
+      "Code": "[&BLIEAAA=]",
+      "Map": "Metrica Province"
+   },
+   {
+      "Name": "Artergon Waypoint",
+      "Code": "[&BLMEAAA=]",
+      "Map": "Metrica Province"
+   },
+   {
+      "Name": "Hydrone Unit Waypoint",
+      "Code": "[&BPcEAAA=]",
+      "Map": "Metrica Province"
+   },
+   {},
+   {},
+   {
+      "Name": "Murkvale Waypoint",
+      "Code": "[&BMcCAAA=]",
+      "Map": "Mount Maelstrom"
+   },
+   {
+      "Name": "Govoran Waypoint",
+      "Code": "[&BMgCAAA=]",
+      "Map": "Mount Maelstrom"
+   },
+   {
+      "Name": "Criterion Waypoint",
+      "Code": "[&BMkCAAA=]",
+      "Map": "Mount Maelstrom"
+   },
+   {
+      "Name": "Firebreak Fort Waypoint",
+      "Code": "[&BMoCAAA=]",
+      "Map": "Mount Maelstrom"
+   },
+   {
+      "Name": "Spaecia Illogica Waypoint",
+      "Code": "[&BMsCAAA=]",
+      "Map": "Mount Maelstrom"
+   },
+   {
+      "Name": "Bard's Waypoint",
+      "Code": "[&BMwCAAA=]",
+      "Map": "Mount Maelstrom"
+   },
+   {
+      "Name": "Maelstrom's Waypoint",
+      "Code": "[&BM0CAAA=]",
+      "Map": "Mount Maelstrom"
+   },
+   {
+      "Name": "Ashen Waypoint",
+      "Code": "[&BM4CAAA=]",
+      "Map": "Mount Maelstrom"
+   },
+   {
+      "Name": "Avernan Waypoint",
+      "Code": "[&BM8CAAA=]",
+      "Map": "Mount Maelstrom"
+   },
+   {
+      "Name": "Broken Arrow Waypoint",
+      "Code": "[&BNACAAA=]",
+      "Map": "Mount Maelstrom"
+   },
+   {
+      "Name": "Oxbow Isle Waypoint",
+      "Code": "[&BNECAAA=]",
+      "Map": "Mount Maelstrom"
+   },
+   {
+      "Name": "Irwin Isle Waypoint",
+      "Code": "[&BNICAAA=]",
+      "Map": "Mount Maelstrom"
+   },
+   {
+      "Name": "Gauntlet Waypoint",
+      "Code": "[&BNMCAAA=]",
+      "Map": "Mount Maelstrom"
+   },
+   {
+      "Name": "Old Sledge Site Waypoint",
+      "Code": "[&BNQCAAA=]",
+      "Map": "Mount Maelstrom"
+   },
+   {
+      "Name": "Judgement Waypoint",
+      "Code": "[&BNUCAAA=]",
+      "Map": "Mount Maelstrom"
+   },
+   {
+      "Name": "Magmatic Waypoint",
+      "Code": "[&BNYCAAA=]",
+      "Map": "Mount Maelstrom"
+   },
+   {
+      "Name": "Crucible of Eternity Waypoint",
+      "Code": "[&BEIFAAA=]",
+      "Map": "Mount Maelstrom"
+   },
+   {},
+   {},
+   {
+      "Name": "Orvar's Glen Waypoint",
+      "Code": "[&BMQBAAA=]",
+      "Map": "Sparkfly Fen"
+   },
+   {
+      "Name": "Fort Cadence Waypoint",
+      "Code": "[&BMUBAAA=]",
+      "Map": "Sparkfly Fen"
+   },
+   {
+      "Name": "Braggi's Stead Waypoint",
+      "Code": "[&BMYBAAA=]",
+      "Map": "Sparkfly Fen"
+   },
+   {
+      "Name": "Saltflood Waypoint",
+      "Code": "[&BMcBAAA=]",
+      "Map": "Sparkfly Fen"
+   },
+   {
+      "Name": "Zintl Holy Grounds Waypoint",
+      "Code": "[&BMgBAAA=]",
+      "Map": "Sparkfly Fen"
+   },
+   {
+      "Name": "Ocean's Gullet Waypoint",
+      "Code": "[&BMkBAAA=]",
+      "Map": "Sparkfly Fen"
+   },
+   {
+      "Name": "Forvar's Waypoint",
+      "Code": "[&BMoBAAA=]",
+      "Map": "Sparkfly Fen"
+   },
+   {
+      "Name": "Toade's Head Waypoint",
+      "Code": "[&BMsBAAA=]",
+      "Map": "Sparkfly Fen"
+   },
+   {
+      "Name": "Flamefrog Waypoint",
+      "Code": "[&BMwBAAA=]",
+      "Map": "Sparkfly Fen"
+   },
+   {
+      "Name": "Darkweather Waypoint",
+      "Code": "[&BM0BAAA=]",
+      "Map": "Sparkfly Fen"
+   },
+   {
+      "Name": "Brackwater Waypoint",
+      "Code": "[&BM4BAAA=]",
+      "Map": "Sparkfly Fen"
+   },
+   {
+      "Name": "Aleem's Waypoint",
+      "Code": "[&BM8BAAA=]",
+      "Map": "Sparkfly Fen"
+   },
+   {
+      "Name": "Splintered Coast Waypoint",
+      "Code": "[&BNABAAA=]",
+      "Map": "Sparkfly Fen"
+   },
+   {
+      "Name": "Brooloonu Waypoint",
+      "Code": "[&BNEBAAA=]",
+      "Map": "Sparkfly Fen"
+   },
+   {
+      "Name": "Dryground Waypoint",
+      "Code": "[&BE0DAAA=]",
+      "Map": "Sparkfly Fen"
+   },
+   {
+      "Name": "Caer Brier Waypoint",
+      "Code": "[&BLMDAAA=]",
+      "Map": "Sparkfly Fen"
+   },
+   {
+      "Name": "Mire Waypoint",
+      "Code": "[&BLQDAAA=]",
+      "Map": "Sparkfly Fen"
+   },
+   {},
+   {},
+   {
+      "Name": "Pursuit Pass Waypoint",
+      "Code": "[&BBcDAAA=]",
+      "Map": "Cursed Shore"
+   },
+   {
+      "Name": "R&D Waypoint",
+      "Code": "[&BBgDAAA=]",
+      "Map": "Cursed Shore"
+   },
+   {
+      "Name": "Penitent Waypoint",
+      "Code": "[&BBkDAAA=]",
+      "Map": "Cursed Shore"
+   },
+   {
+      "Name": "Gavbeorn's Waypoint",
+      "Code": "[&BBoDAAA=]",
+      "Map": "Cursed Shore"
+   },
+   {
+      "Name": "Verdance Waypoint",
+      "Code": "[&BBsDAAA=]",
+      "Map": "Cursed Shore"
+   },
+   {
+      "Name": "Shelter's Gate Waypoint",
+      "Code": "[&BBwDAAA=]",
+      "Map": "Cursed Shore"
+   },
+   {
+      "Name": "Jofast's Waypoint",
+      "Code": "[&BB0DAAA=]",
+      "Map": "Cursed Shore"
+   },
+   {
+      "Name": "Meddler's Waypoint",
+      "Code": "[&BB4DAAA=]",
+      "Map": "Cursed Shore"
+   },
+   {
+      "Name": "Anchorage Waypoint",
+      "Code": "[&BB8DAAA=]",
+      "Map": "Cursed Shore"
+   },
+   {
+      "Name": "Arah Waypoint",
+      "Code": "[&BCADAAA=]",
+      "Map": "Cursed Shore"
+   },
+   {
+      "Name": "Caer Shadowfain Waypoint",
+      "Code": "[&BCEDAAA=]",
+      "Map": "Cursed Shore"
+   },
+   {
+      "Name": "Murdered Dreams Waypoint",
+      "Code": "[&BCIDAAA=]",
+      "Map": "Cursed Shore"
+   },
+   {
+      "Name": "Shipwreck Rock Waypoint",
+      "Code": "[&BOQGAAA=]",
+      "Map": "Cursed Shore"
+   },
+   {},
+   {},
+   {
+      "Name": "Pagga's Waypoint",
+      "Code": "[&BKYCAAA=]",
+      "Map": "Malchor's Leap"
+   },
+   {
+      "Name": "Doric's Waypoint",
+      "Code": "[&BKcCAAA=]",
+      "Map": "Malchor's Leap"
+   },
+   {
+      "Name": "Waste Hollows Waypoint",
+      "Code": "[&BKgCAAA=]",
+      "Map": "Malchor's Leap"
+   },
+   {
+      "Name": "Colonnade Waypoint",
+      "Code": "[&BKkCAAA=]",
+      "Map": "Malchor's Leap"
+   },
+   {
+      "Name": "Valley of Lyss Waypoint",
+      "Code": "[&BKoCAAA=]",
+      "Map": "Malchor's Leap"
+   },
+   {
+      "Name": "Union Waypoint",
+      "Code": "[&BKsCAAA=]",
+      "Map": "Malchor's Leap"
+   },
+   {
+      "Name": "Wren Waypoint",
+      "Code": "[&BKwCAAA=]",
+      "Map": "Malchor's Leap"
+   },
+   {
+      "Name": "Lyssa Waypoint",
+      "Code": "[&BK0CAAA=]",
+      "Map": "Malchor's Leap"
+   },
+   {
+      "Name": "Blighted Arch Waypoint",
+      "Code": "[&BK4CAAA=]",
+      "Map": "Malchor's Leap"
+   },
+   {
+      "Name": "Murmur Waypoint",
+      "Code": "[&BK8CAAA=]",
+      "Map": "Malchor's Leap"
+   },
+   {
+      "Name": "Tempests Waypoint",
+      "Code": "[&BLACAAA=]",
+      "Map": "Malchor's Leap"
+   },
+   {
+      "Name": "Versoconjouring Waypoint",
+      "Code": "[&BLECAAA=]",
+      "Map": "Malchor's Leap"
+   },
+   {
+      "Name": "Lights Waypoint",
+      "Code": "[&BLICAAA=]",
+      "Map": "Malchor's Leap"
+   },
+   {},
+   {},
+   {
+      "Name": "Bramble Pass Waypoint",
+      "Code": "[&BOwCAAA=]",
+      "Map": "Straits of Devastation"
+   },
+   {
+      "Name": "Signal Peak Waypoint",
+      "Code": "[&BO0CAAA=]",
+      "Map": "Straits of Devastation"
+   },
+   {
+      "Name": "Fort Trinity Waypoint",
+      "Code": "[&BO4CAAA=]",
+      "Map": "Straits of Devastation"
+   },
+   {
+      "Name": "Thorn Pass Waypoint",
+      "Code": "[&BO8CAAA=]",
+      "Map": "Straits of Devastation"
+   },
+   {
+      "Name": "Thunderhead Waypoint",
+      "Code": "[&BPACAAA=]",
+      "Map": "Straits of Devastation"
+   },
+   {
+      "Name": "Broken Spit Waypoint",
+      "Code": "[&BPECAAA=]",
+      "Map": "Straits of Devastation"
+   },
+   {
+      "Name": "Vesper Bell Waypoint",
+      "Code": "[&BPICAAA=]",
+      "Map": "Straits of Devastation"
+   },
+   {
+      "Name": "Royal Forum Waypoint",
+      "Code": "[&BPMCAAA=]",
+      "Map": "Straits of Devastation"
+   },
+   {
+      "Name": "Brassclaw Waypoint",
+      "Code": "[&BPQCAAA=]",
+      "Map": "Straits of Devastation"
+   },
+   {
+      "Name": "Tughra Waypoint",
+      "Code": "[&BPUCAAA=]",
+      "Map": "Straits of Devastation"
+   },
+   {
+      "Name": "Conquest Marina Waypoint",
+      "Code": "[&BPYCAAA=]",
+      "Map": "Straits of Devastation"
+   },
+   {
+      "Name": "Lone Post Waypoint",
+      "Code": "[&BPcCAAA=]",
+      "Map": "Straits of Devastation"
+   },
+   {
+      "Name": "Waywarde Waypoint",
+      "Code": "[&BPgCAAA=]",
+      "Map": "Straits of Devastation"
+   },
+   {
+      "Name": "Xenarius Waypoint",
+      "Code": "[&BPkCAAA=]",
+      "Map": "Straits of Devastation"
+   },
+   {
+      "Name": "Glorious Victory Waypoint",
+      "Code": "[&BPoCAAA=]",
+      "Map": "Straits of Devastation"
+   },
+   {
+      "Name": "Sentry Waypoint",
+      "Code": "[&BPsCAAA=]",
+      "Map": "Straits of Devastation"
+   },
+   {
+      "Name": "Rally Waypoint",
+      "Code": "[&BNIEAAA=]",
+      "Map": "Straits of Devastation"
+   },
+   {
+      "Name": "Plinth Timberland Waypoint",
+      "Code": "[&BFgGAAA=]",
+      "Map": "Straits of Devastation"
+   },
+   {
+      "Name": "Underbelly Waypoint",
+      "Code": "[&BFkGAAA=]",
+      "Map": "Straits of Devastation"
+   },
+   {
+      "Name": "Dire Shoal Waypoint",
+      "Code": "[&BOUGAAA=]",
+      "Map": "Straits of Devastation"
+   },
+   {},
+   {},
+   {
+      "Name": "Tribulation Waypoint",
+      "Code": "[&BFYCAAA=]",
+      "Map": "Dredgehaunt Cliffs"
+   },
+   {
+      "Name": "Frostland Waypoint",
+      "Code": "[&BFcCAAA=]",
+      "Map": "Dredgehaunt Cliffs"
+   },
+   {
+      "Name": "Dociu Waypoint",
+      "Code": "[&BFgCAAA=]",
+      "Map": "Dredgehaunt Cliffs"
+   },
+   {
+      "Name": "Seven Pines Waypoint",
+      "Code": "[&BFkCAAA=]",
+      "Map": "Dredgehaunt Cliffs"
+   },
+   {
+      "Name": "Grey Road Waypoint",
+      "Code": "[&BFoCAAA=]",
+      "Map": "Dredgehaunt Cliffs"
+   },
+   {
+      "Name": "Steelbrachen Waypoint",
+      "Code": "[&BFsCAAA=]",
+      "Map": "Dredgehaunt Cliffs"
+   },
+   {
+      "Name": "Toran Hollow Waypoint",
+      "Code": "[&BFwCAAA=]",
+      "Map": "Dredgehaunt Cliffs"
+   },
+   {
+      "Name": "Hessdallen Kenning Waypoint",
+      "Code": "[&BF0CAAA=]",
+      "Map": "Dredgehaunt Cliffs"
+   },
+   {
+      "Name": "Kenning Testing Ground",
+      "Code": "[&BF4CAAA=]",
+      "Map": "Dredgehaunt Cliffs"
+   },
+   {
+      "Name": "Wide Expanse Waypoint",
+      "Code": "[&BF8CAAA=]",
+      "Map": "Dredgehaunt Cliffs"
+   },
+   {
+      "Name": "Nottowr Fault Waypoint",
+      "Code": "[&BGACAAA=]",
+      "Map": "Dredgehaunt Cliffs"
+   },
+   {
+      "Name": "Mountain's Tail Waypoint",
+      "Code": "[&BGECAAA=]",
+      "Map": "Dredgehaunt Cliffs"
+   },
+   {
+      "Name": "Graupel Waypoint",
+      "Code": "[&BGICAAA=]",
+      "Map": "Dredgehaunt Cliffs"
+   },
+   {
+      "Name": "Havfrue Basin Waypoint",
+      "Code": "[&BGMCAAA=]",
+      "Map": "Dredgehaunt Cliffs"
+   },
+   {
+      "Name": "Travelen's Waypoint",
+      "Code": "[&BGQCAAA=]",
+      "Map": "Dredgehaunt Cliffs"
+   },
+   {
+      "Name": "Wyrmblood Waypoint",
+      "Code": "[&BGUCAAA=]",
+      "Map": "Dredgehaunt Cliffs"
+   },
+   {
+      "Name": "Granite Citadel Waypoint",
+      "Code": "[&BO4EAAA=]",
+      "Map": "Dredgehaunt Cliffs"
+   },
+   {
+      "Name": "Sorrow's Embrace Waypoint",
+      "Code": "[&BD8FAAA=]",
+      "Map": "Dredgehaunt Cliffs"
+   },
+   {},
+   {},
+   {
+      "Name": "Arundon Waypoint",
+      "Code": "[&BHgCAAA=]",
+      "Map": "Frostgorge Sound"
+   },
+   {
+      "Name": "Groznev Waypoint",
+      "Code": "[&BHkCAAA=]",
+      "Map": "Frostgorge Sound"
+   },
+   {
+      "Name": "Earthshake Waypoint",
+      "Code": "[&BHoCAAA=]",
+      "Map": "Frostgorge Sound"
+   },
+   {
+      "Name": "Path of Starry Skies Waypoint",
+      "Code": "[&BHsCAAA=]",
+      "Map": "Frostgorge Sound"
+   },
+   {
+      "Name": "Slough of Despond Waypoint",
+      "Code": "[&BHwCAAA=]",
+      "Map": "Frostgorge Sound"
+   },
+   {
+      "Name": "Watchful Waypoint",
+      "Code": "[&BH0CAAA=]",
+      "Map": "Frostgorge Sound"
+   },
+   {
+      "Name": "Ice Floe Waypoint",
+      "Code": "[&BH4CAAA=]",
+      "Map": "Frostgorge Sound"
+   },
+   {
+      "Name": "Dimotiki Waypoint",
+      "Code": "[&BH8CAAA=]",
+      "Map": "Frostgorge Sound"
+   },
+   {
+      "Name": "Twoloop Waypoint",
+      "Code": "[&BIACAAA=]",
+      "Map": "Frostgorge Sound"
+   },
+   {
+      "Name": "Skyheight Steading Waypoint",
+      "Code": "[&BIECAAA=]",
+      "Map": "Frostgorge Sound"
+   },
+   {
+      "Name": "Highpeaks Waypoint",
+      "Code": "[&BIICAAA=]",
+      "Map": "Frostgorge Sound"
+   },
+   {
+      "Name": "Ridgerock Camp Waypoint",
+      "Code": "[&BIMCAAA=]",
+      "Map": "Frostgorge Sound"
+   },
+   {
+      "Name": "Yak's Bend Waypoint",
+      "Code": "[&BIQCAAA=]",
+      "Map": "Frostgorge Sound"
+   },
+   {
+      "Name": "Blue Ice Shining Waypoint",
+      "Code": "[&BIUCAAA=]",
+      "Map": "Frostgorge Sound"
+   },
+   {
+      "Name": "Drakkar Waypoint",
+      "Code": "[&BIYCAAA=]",
+      "Map": "Frostgorge Sound"
+   },
+   {
+      "Name": "Honor of the Waves Waypoint",
+      "Code": "[&BEMFAAA=]",
+      "Map": "Frostgorge Sound"
+   },
+   {},
+   {},
+   {
+      "Name": "Vanjir's Stead Waypoint",
+      "Code": "[&BOUAAAA=]",
+      "Map": "Lornar's Pass"
+   },
+   {
+      "Name": "Demon's Maw Waypoint",
+      "Code": "[&BOYAAAA=]",
+      "Map": "Lornar's Pass"
+   },
+   {
+      "Name": "Winterthaw Waypoint",
+      "Code": "[&BOcAAAA=]",
+      "Map": "Lornar's Pass"
+   },
+   {
+      "Name": "False Lake Waypoint",
+      "Code": "[&BOgAAAA=]",
+      "Map": "Lornar's Pass"
+   },
+   {
+      "Name": "Durmand Priory Waypoint",
+      "Code": "[&BOkAAAA=]",
+      "Map": "Lornar's Pass"
+   },
+   {
+      "Name": "Lamentation Waypoint",
+      "Code": "[&BOoAAAA=]",
+      "Map": "Lornar's Pass"
+   },
+   {
+      "Name": "Thunderhorns Waypoint",
+      "Code": "[&BOsAAAA=]",
+      "Map": "Lornar's Pass"
+   },
+   {
+      "Name": "Nentor Waypoint",
+      "Code": "[&BOwAAAA=]",
+      "Map": "Lornar's Pass"
+   },
+   {
+      "Name": "Guutra's Homestead Waypoint",
+      "Code": "[&BJYBAAA=]",
+      "Map": "Lornar's Pass"
+   },
+   {
+      "Name": "Stonescatter Waypoint",
+      "Code": "[&BJcBAAA=]",
+      "Map": "Lornar's Pass"
+   },
+   {
+      "Name": "Pinnacle Enclave Waypoint",
+      "Code": "[&BJgBAAA=]",
+      "Map": "Lornar's Pass"
+   },
+   {
+      "Name": "Mistriven Waypoint",
+      "Code": "[&BJkBAAA=]",
+      "Map": "Lornar's Pass"
+   },
+   {
+      "Name": "Icedevil's Waypoint",
+      "Code": "[&BFEGAAA=]",
+      "Map": "Lornar's Pass"
+   },
+   {
+      "Name": "Refuge Peak Waypoint",
+      "Code": "[&BFIGAAA=]",
+      "Map": "Lornar's Pass"
+   },
+   {
+      "Name": "Afgar's Waypoint",
+      "Code": "[&BFMGAAA=]",
+      "Map": "Lornar's Pass"
+   },
+   {
+      "Name": "Cascade Bridge Waypoint",
+      "Code": "[&BFQGAAA=]",
+      "Map": "Lornar's Pass"
+   },
+   {},
+   {},
+   {
+      "Name": "Skradden Waypoint",
+      "Code": "[&BLMAAAA=]",
+      "Map": "Snowden Drifts"
+   },
+   {
+      "Name": "Lornar's Waypoint",
+      "Code": "[&BLQAAAA=]",
+      "Map": "Snowden Drifts"
+   },
+   {
+      "Name": "Highpass Haven Waypoint",
+      "Code": "[&BLUAAAA=]",
+      "Map": "Snowden Drifts"
+   },
+   {
+      "Name": "Lost Child's Sorrow Waypoint",
+      "Code": "[&BLYAAAA=]",
+      "Map": "Snowden Drifts"
+   },
+   {
+      "Name": "Scholar's Waypoint",
+      "Code": "[&BLcAAAA=]",
+      "Map": "Snowden Drifts"
+   },
+   {
+      "Name": "Isenfall Waypoint",
+      "Code": "[&BLgAAAA=]",
+      "Map": "Snowden Drifts"
+   },
+   {
+      "Name": "Snowdrift Waypoint",
+      "Code": "[&BLkAAAA=]",
+      "Map": "Snowden Drifts"
+   },
+   {
+      "Name": "Seraph Outriders' Waypoint",
+      "Code": "[&BLoAAAA=]",
+      "Map": "Snowden Drifts"
+   },
+   {
+      "Name": "Torstvedt Homestead Waypoint",
+      "Code": "[&BLsAAAA=]",
+      "Map": "Snowden Drifts"
+   },
+   {
+      "Name": "Exile Waypoint",
+      "Code": "[&BLwAAAA=]",
+      "Map": "Snowden Drifts"
+   },
+   {
+      "Name": "Njordstead Waypoint",
+      "Code": "[&BL0AAAA=]",
+      "Map": "Snowden Drifts"
+   },
+   {
+      "Name": "Soderhem Steading Waypoint",
+      "Code": "[&BL4AAAA=]",
+      "Map": "Snowden Drifts"
+   },
+   {
+      "Name": "Snowhawk Landing Waypoint",
+      "Code": "[&BL8AAAA=]",
+      "Map": "Snowden Drifts"
+   },
+   {
+      "Name": "Reaver's Waypoint",
+      "Code": "[&BMAAAAA=]",
+      "Map": "Snowden Drifts"
+   },
+   {
+      "Name": "Owl Waypoint",
+      "Code": "[&BMEAAAA=]",
+      "Map": "Snowden Drifts"
+   },
+   {
+      "Name": "Podaga Steading Waypoint",
+      "Code": "[&BMIAAAA=]",
+      "Map": "Snowden Drifts"
+   },
+   {
+      "Name": "Frozen Sweeps Waypoint",
+      "Code": "[&BL8DAAA=]",
+      "Map": "Snowden Drifts"
+   },
+   {
+      "Name": "Valslake Waypoint",
+      "Code": "[&BMADAAA=]",
+      "Map": "Snowden Drifts"
+   },
+   {
+      "Name": "Angvar's Trove Waypoint",
+      "Code": "[&BP8GAAA=]",
+      "Map": "Snowden Drifts"
+   },
+   {},
+   {},
+   {
+      "Name": "Talus Waypoint",
+      "Code": "[&BEQCAAA=]",
+      "Map": "Timberline Falls"
+   },
+   {
+      "Name": "Serpent Waypoint",
+      "Code": "[&BEUCAAA=]",
+      "Map": "Timberline Falls"
+   },
+   {
+      "Name": "Okarinoo Waypoint",
+      "Code": "[&BEYCAAA=]",
+      "Map": "Timberline Falls"
+   },
+   {
+      "Name": "Coil Waypoint",
+      "Code": "[&BEcCAAA=]",
+      "Map": "Timberline Falls"
+   },
+   {
+      "Name": "Scale Strand Waypoint",
+      "Code": "[&BEgCAAA=]",
+      "Map": "Timberline Falls"
+   },
+   {
+      "Name": "Nonmoa Waypoint",
+      "Code": "[&BEkCAAA=]",
+      "Map": "Timberline Falls"
+   },
+   {
+      "Name": "Eztlitl Grounds Waypoint",
+      "Code": "[&BEoCAAA=]",
+      "Map": "Timberline Falls"
+   },
+   {
+      "Name": "Gyre Rapids Waypoint",
+      "Code": "[&BEsCAAA=]",
+      "Map": "Timberline Falls"
+   },
+   {
+      "Name": "Valance Tutory Waypoint",
+      "Code": "[&BEwCAAA=]",
+      "Map": "Timberline Falls"
+   },
+   {
+      "Name": "Ogduk Waypoint",
+      "Code": "[&BE0CAAA=]",
+      "Map": "Timberline Falls"
+   },
+   {
+      "Name": "Foundation 86 Waypoint",
+      "Code": "[&BE4CAAA=]",
+      "Map": "Timberline Falls"
+   },
+   {
+      "Name": "White Paper Waypoint",
+      "Code": "[&BE8CAAA=]",
+      "Map": "Timberline Falls"
+   },
+   {
+      "Name": "Gentle River Waypoint",
+      "Code": "[&BFACAAA=]",
+      "Map": "Timberline Falls"
+   },
+   {
+      "Name": "Thistlereed Waypoint",
+      "Code": "[&BFECAAA=]",
+      "Map": "Timberline Falls"
+   },
+   {
+      "Name": "Krongar Waypoint",
+      "Code": "[&BFICAAA=]",
+      "Map": "Timberline Falls"
+   },
+   {
+      "Name": "Iron Veil Waypoint",
+      "Code": "[&BFMCAAA=]",
+      "Map": "Timberline Falls"
+   },
+   {
+      "Name": "Rankor Ruins Waypoint",
+      "Code": "[&BFQCAAA=]",
+      "Map": "Timberline Falls"
+   },
+   {
+      "Name": "Concordia Waypoint",
+      "Code": "[&BFUCAAA=]",
+      "Map": "Timberline Falls"
+   },
+   {
+      "Name": "Stromkarl Waypoint",
+      "Code": "[&BEYEAAA=]",
+      "Map": "Timberline Falls"
+   },
+   {},
+   {},
+   {
+      "Name": "Outcast's Waypoint",
+      "Code": "[&BHIBAAA=]",
+      "Map": "Wayfarer Foothills"
+   },
+   {
+      "Name": "Hero's Moot Waypoint",
+      "Code": "[&BHMBAAA=]",
+      "Map": "Wayfarer Foothills"
+   },
+   {
+      "Name": "Horncall Waypoint",
+      "Code": "[&BHQBAAA=]",
+      "Map": "Wayfarer Foothills"
+   },
+   {
+      "Name": "Darkriven Waypoint",
+      "Code": "[&BHUBAAA=]",
+      "Map": "Wayfarer Foothills"
+   },
+   {
+      "Name": "Taigan Waypoint",
+      "Code": "[&BHYBAAA=]",
+      "Map": "Wayfarer Foothills"
+   },
+   {
+      "Name": "Zelechor Hot Springs Waypoint",
+      "Code": "[&BHcBAAA=]",
+      "Map": "Wayfarer Foothills"
+   },
+   {
+      "Name": "Halvaunt Waypoint",
+      "Code": "[&BHgBAAA=]",
+      "Map": "Wayfarer Foothills"
+   },
+   {
+      "Name": "Crossroads Haven Waypoint",
+      "Code": "[&BHkBAAA=]",
+      "Map": "Wayfarer Foothills"
+   },
+   {
+      "Name": "Dawnrise Waypoint",
+      "Code": "[&BHoBAAA=]",
+      "Map": "Wayfarer Foothills"
+   },
+   {
+      "Name": "Dolyak Pass Waypoint",
+      "Code": "[&BHsBAAA=]",
+      "Map": "Wayfarer Foothills"
+   },
+   {
+      "Name": "Solitude Waypoint",
+      "Code": "[&BHwBAAA=]",
+      "Map": "Wayfarer Foothills"
+   },
+   {
+      "Name": "Twinspur Haven Waypoint",
+      "Code": "[&BH0BAAA=]",
+      "Map": "Wayfarer Foothills"
+   },
+   {
+      "Name": "Vendrake's Homestead Waypoint",
+      "Code": "[&BH4BAAA=]",
+      "Map": "Wayfarer Foothills"
+   },
+   {
+      "Name": "Lostvyrm Cave Waypoint",
+      "Code": "[&BMEDAAA=]",
+      "Map": "Wayfarer Foothills"
+   },
+   {
+      "Name": "Krennak's Homestead",
+      "Code": "[&BMIDAAA=]",
+      "Map": "Wayfarer Foothills"
+   },
+   {
+      "Name": "Grawlenfjord Waypoint",
+      "Code": "[&BMMDAAA=]",
+      "Map": "Wayfarer Foothills"
+   },
+   {
+      "Name": "Osenfold Waypoint",
+      "Code": "[&BAEEAAA=]",
+      "Map": "Wayfarer Foothills"
+   },
+   {},
+   {},
+   {
+      "Name": "Lion Point Waypoint",
+      "Code": "[&BNAGAAA=]",
+      "Map": "Southsun Cove"
+   },
+   {
+      "Name": "Pride Point Waypoint",
+      "Code": "[&BNIGAAA=]",
+      "Map": "Southsun Cove"
+   },
+   {
+      "Name": "Pearl Islet Waypoint",
+      "Code": "[&BNUGAAA=]",
+      "Map": "Southsun Cove"
+   },
+   {
+      "Name": "Camp Karka Waypoint",
+      "Code": "[&BNcGAAA=]",
+      "Map": "Southsun Cove"
+   },
+   {
+      "Name": "Owain's Refuge Waypoint",
+      "Code": "[&BNgGAAA=]",
+      "Map": "Southsun Cove"
+   },
+   {
+      "Name": "Kiel's Outpost Waypoint",
+      "Code": "[&BNwGAAA=]",
+      "Map": "Southsun Cove"
+   },
+   {},
+   {},
+   {
+      "Name": "Gladium Waypoint",
+      "Code": "[&BKQDAAA=]",
+      "Map": "Black Citadel"
+   },
+   {
+      "Name": "Mustering Ground Waypoint",
+      "Code": "[&BKUDAAA=]",
+      "Map": "Black Citadel"
+   },
+   {
+      "Name": "Memorial Waypoint",
+      "Code": "[&BKYDAAA=]",
+      "Map": "Black Citadel"
+   },
+   {
+      "Name": "Factorium Waypoint",
+      "Code": "[&BKcDAAA=]",
+      "Map": "Black Citadel"
+   },
+   {
+      "Name": "Diessa Gate Waypoint",
+      "Code": "[&BKgDAAA=]",
+      "Map": "Black Citadel"
+   },
+   {
+      "Name": "Ligacus Aquilo Waypoint",
+      "Code": "[&BKkDAAA=]",
+      "Map": "Black Citadel"
+   },
+   {
+      "Name": "Bane Waypoint",
+      "Code": "[&BKoDAAA=]",
+      "Map": "Black Citadel"
+   },
+   {
+      "Name": "Hero's Waypoint",
+      "Code": "[&BKsDAAA=]",
+      "Map": "Black Citadel"
+   },
+   {
+      "Name": "Ruins of Rin Waypoint",
+      "Code": "[&BKwDAAA=]",
+      "Map": "Black Citadel"
+   },
+   {
+      "Name": "Imperator's Waypoint",
+      "Code": "[&BK0DAAA=]",
+      "Map": "Black Citadel"
+   },
+   {
+      "Name": "Junker's Waypoint",
+      "Code": "[&BDcEAAA=]",
+      "Map": "Black Citadel"
+   },
+   {},
+   {},
+   {
+      "Name": "Dwayna Waypoint",
+      "Code": "[&BCMDAAA=]",
+      "Map": "Divinity's Reach"
+   },
+   {
+      "Name": "Grenth Waypoint",
+      "Code": "[&BCQDAAA=]",
+      "Map": "Divinity's Reach"
+   },
+   {
+      "Name": "Kormir Waypoint",
+      "Code": "[&BCUDAAA=]",
+      "Map": "Divinity's Reach"
+   },
+   {
+      "Name": "Lyssa Waypoint (divinity's)",
+      "Code": "[&BCYDAAA=]",
+      "Map": "Divinity's Reach"
+   },
+   {
+      "Name": "Melandru Waypoint",
+      "Code": "[&BCcDAAA=]",
+      "Map": "Divinity's Reach"
+   },
+   {
+      "Name": "Balthazar Waypoint",
+      "Code": "[&BCgDAAA=]",
+      "Map": "Divinity's Reach"
+   },
+   {
+      "Name": "Palace Waypoint",
+      "Code": "[&BCkDAAA=]",
+      "Map": "Divinity's Reach"
+   },
+   {
+      "Name": "Commons Waypoint",
+      "Code": "[&BCoDAAA=]",
+      "Map": "Divinity's Reach"
+   },
+   {
+      "Name": "Rurikton Waypoint",
+      "Code": "[&BCsDAAA=]",
+      "Map": "Divinity's Reach"
+   },
+   {
+      "Name": "Collapse Waypoint",
+      "Code": "[&BCwDAAA=]",
+      "Map": "Divinity's Reach"
+   },
+   {
+      "Name": "Ossan Waypoint",
+      "Code": "[&BC0DAAA=]",
+      "Map": "Divinity's Reach"
+   },
+   {
+      "Name": "Salma Waypoint",
+      "Code": "[&BC4DAAA=]",
+      "Map": "Divinity's Reach"
+   },
+   {
+      "Name": "Ministers Waypoint",
+      "Code": "[&BP4EAAA=]",
+      "Map": "Divinity's Reach"
+   },
+   {},
+   {},
+   {
+      "Name": "Might and Main Waypoint",
+      "Code": "[&BIUDAAA=]",
+      "Map": "Hoelbrak"
+   },
+   {
+      "Name": "Trade Commons Waypoint",
+      "Code": "[&BIYDAAA=]",
+      "Map": "Hoelbrak"
+   },
+   {
+      "Name": "Snow Leopard Waypoint",
+      "Code": "[&BIcDAAA=]",
+      "Map": "Hoelbrak"
+   },
+   {
+      "Name": "Raven Waypoint",
+      "Code": "[&BIgDAAA=]",
+      "Map": "Hoelbrak"
+   },
+   {
+      "Name": "Bear Waypoint",
+      "Code": "[&BIkDAAA=]",
+      "Map": "Hoelbrak"
+   },
+   {
+      "Name": "Wolf Waypoint",
+      "Code": "[&BIoDAAA=]",
+      "Map": "Hoelbrak"
+   },
+   {
+      "Name": "Shelter Rock Waypoint",
+      "Code": "[&BIsDAAA=]",
+      "Map": "Hoelbrak"
+   },
+   {
+      "Name": "Legends Waypoint",
+      "Code": "[&BIwDAAA=]",
+      "Map": "Hoelbrak"
+   },
+   {
+      "Name": "Eastern Watchpost Waypoint",
+      "Code": "[&BI0DAAA=]",
+      "Map": "Hoelbrak"
+   },
+   {
+      "Name": "Southern Watchpost Waypoint",
+      "Code": "[&BI4DAAA=]",
+      "Map": "Hoelbrak"
+   },
+   {
+      "Name": "Peeta's Waypoint",
+      "Code": "[&BI8DAAA=]",
+      "Map": "Hoelbrak"
+   },
+   {
+      "Name": "Hero's Compass Waypoint",
+      "Code": "[&BJADAAA=]",
+      "Map": "Hoelbrak"
+   },
+   {
+      "Name": "Great Lodge Waypoint",
+      "Code": "[&BNUDAAA=]",
+      "Map": "Hoelbrak"
+   },
+   {
+      "Name": "Upper Balcony Waypoint",
+      "Code": "[&BAgFAAA=]",
+      "Map": "Hoelbrak"
+   },
+   {},
+   {},
+   {
+      "Name": "Canal Ward Waypoint",
+      "Code": "[&BAwEAAA=]",
+      "Map": "Lion's Arch"
+   },
+   {
+      "Name": "Smuggler's Waypoint",
+      "Code": "[&BA0EAAA=]",
+      "Map": "Lion's Arch"
+   },
+   {
+      "Name": "Bloodcoast Ward Waypoint",
+      "Code": "[&BA4EAAA=]",
+      "Map": "Lion's Arch"
+   },
+   {
+      "Name": "Claw Island Portage Waypoint",
+      "Code": "[&BA8EAAA=]",
+      "Map": "Lion's Arch"
+   },
+   {
+      "Name": "Trader's Forum Waypoint",
+      "Code": "[&BBAEAAA=]",
+      "Map": "Lion's Arch"
+   },
+   {
+      "Name": "Gate Hub Plaza Waypoint",
+      "Code": "[&BBEEAAA=]",
+      "Map": "Lion's Arch"
+   },
+   {
+      "Name": "Diverse Ledges Waypoint",
+      "Code": "[&BC0EAAA=]",
+      "Map": "Lion's Arch"
+   },
+   {
+      "Name": "Western Ward Waypoint",
+      "Code": "[&BC4EAAA=]",
+      "Map": "Lion's Arch"
+   },
+   {
+      "Name": "Sanctum Harbor Waypoint",
+      "Code": "[&BC8EAAA=]",
+      "Map": "Lion's Arch"
+   },
+   {
+      "Name": "Fort Marriner Waypoint",
+      "Code": "[&BDAEAAA=]",
+      "Map": "Lion's Arch"
+   },
+   {
+      "Name": "Eastern Ward Waypoint",
+      "Code": "[&BDEEAAA=]",
+      "Map": "Lion's Arch"
+   },
+   {
+      "Name": "Lion's Shadow Inn Waypoint",
+      "Code": "[&BDIEAAA=]",
+      "Map": "Lion's Arch"
+   },
+   {
+      "Name": "Farshore Waypoint",
+      "Code": "[&BDMEAAA=]",
+      "Map": "Lion's Arch"
+   },
+   {},
+   {},
+   {
+      "Name": "Metrical Court Waypoint",
+      "Code": "[&BBMEAAA=]",
+      "Map": "Rata Sum"
+   },
+   {
+      "Name": "Magustan Court Waypoint",
+      "Code": "[&BBQEAAA=]",
+      "Map": "Rata Sum"
+   },
+   {
+      "Name": "Magicat Court Waypoint",
+      "Code": "[&BLQEAAA=]",
+      "Map": "Rata Sum"
+   },
+   {
+      "Name": "Incubation Waypoint",
+      "Code": "[&BLUEAAA=]",
+      "Map": "Rata Sum"
+   },
+   {
+      "Name": "Accountancy Waypoint",
+      "Code": "[&BLYEAAA=]",
+      "Map": "Rata Sum"
+   },
+   {
+      "Name": "Apprentice Waypoint",
+      "Code": "[&BLcEAAA=]",
+      "Map": "Rata Sum"
+   },
+   {
+      "Name": "Research Waypoint",
+      "Code": "[&BLgEAAA=]",
+      "Map": "Rata Sum"
+   },
+   {
+      "Name": "Auxiliary Waypoint",
+      "Code": "[&BLkEAAA=]",
+      "Map": "Rata Sum"
+   },
+   {
+      "Name": "Port Waypoint",
+      "Code": "[&BAcFAAA=]",
+      "Map": "Rata Sum"
+   },
+   {},
+   {},
+   {
+      "Name": "Caledon Waypoint",
+      "Code": "[&BBIEAAA=]",
+      "Map": "The Grove"
+   },
+   {
+      "Name": "Upper Commons Waypoint",
+      "Code": "[&BLoEAAA=]",
+      "Map": "The Grove"
+   },
+   {
+      "Name": "Reckoner's Waypoint",
+      "Code": "[&BLsEAAA=]",
+      "Map": "The Grove"
+   },
+   {
+      "Name": "Ronan's Waypoint",
+      "Code": "[&BLwEAAA=]",
+      "Map": "The Grove"
+   },
+   {},
+   {},
+   {
+      "Name": "Temple of Kormir Waypoint",
+      "Code": "[&BEAKAAA=]",
+      "Map": "Crystal Oasis"
+   },
+   {
+      "Name": "Destiny's Gorge Waypoint",
+      "Code": "[&BJMKAAA=]",
+      "Map": "Crystal Oasis"
+   },
+   {
+      "Name": "Amnoon Waypoint",
+      "Code": "[&BLsKAAA=]",
+      "Map": "Crystal Oasis"
+   },
+   {},
+   {},
+   {
+      "Name": "Lommuld Kraal Waypoint",
+      "Code": "[&BGoKAAA=]",
+      "Map": "Desert Highlands"
+   },
+   {
+      "Name": "Makali Outpost Waypoint",
+      "Code": "[&BGsKAAA=]",
+      "Map": "Desert Highlands"
+   },
+   {
+      "Name": "Brightwater Waypoint",
+      "Code": "[&BJEKAAA=]",
+      "Map": "Desert Highlands"
+   },
+   {
+      "Name": "Highjump Ranch Waypoint",
+      "Code": "[&BJ0KAAA=]",
+      "Map": "Desert Highlands"
+   },
+   {
+      "Name": "Derelict Delve Waypoint",
+      "Code": "[&BKQKAAA=]",
+      "Map": "Desert Highlands"
+   },
+   {},
+   {},
+   {
+      "Name": "Olishar's Oasis Camp Waypoint",
+      "Code": "[&BCgKAAA=]",
+      "Map": "Elon Riverlands"
+   },
+   {
+      "Name": "Augury's Shadow Waypoint",
+      "Code": "[&BFMKAAA=]",
+      "Map": "Elon Riverlands"
+   },
+   {
+      "Name": "Skimmer Ranch Waypoint",
+      "Code": "[&BGcKAAA=]",
+      "Map": "Elon Riverlands"
+   },
+   {},
+   {},
+   {
+      "Name": "Joko's Domain Waypoint",
+      "Code": "[&BAsKAAA=]",
+      "Map": "The Desolation"
+   },
+   {
+      "Name": "The Scourgeway Waypoint",
+      "Code": "[&BHMKAAA=]",
+      "Map": "The Desolation"
+   },
+   {
+      "Name": "Sand Jackal Run Waypoint",
+      "Code": "[&BHcKAAA=]",
+      "Map": "The Desolation"
+   },
+   {
+      "Name": "The Darklands Waypoint",
+      "Code": "[&BKMKAAA=]",
+      "Map": "The Desolation"
+   },
+   {
+      "Name": "Lair of the Forgotten Waypoint",
+      "Code": "[&BMEKAAA=]",
+      "Map": "The Desolation"
+   },
+   {
+      "Name": "Bonestrand Waypoint",
+      "Code": "[&BNwKAAA=]",
+      "Map": "The Desolation"
+   },
+   {},
+   {},
+   {
+      "Name": "Vehtendi Academy Waypoint",
+      "Code": "[&BA8KAAA=]",
+      "Map": "Domain of Vabbi"
+   },
+   {
+      "Name": "Necropolis Waypoint",
+      "Code": "[&BEoKAAA=]",
+      "Map": "Domain of Vabbi"
+   },
+   {
+      "Name": "Market Ruins Waypoint",
+      "Code": "[&BHQKAAA=]",
+      "Map": "Domain of Vabbi"
+   },
+   {
+      "Name": "Cragged Vale Waypoint",
+      "Code": "[&BKUKAAA=]",
+      "Map": "Domain of Vabbi"
+   },
+   {
+      "Name": "Seborhin Waypoint",
+      "Code": "[&BNAKAAA=]",
+      "Map": "Domain of Vabbi"
+   },
+   {
+      "Name": "Vehjin Palace Waypoint",
+      "Code": "[&BO0KAAA=]",
+      "Map": "Domain of Vabbi"
+   },
+   {},
+   {},
+   {
+      "Name": "Astralarium Waypoint",
+      "Code": "[&BPoKAAA=]",
+      "Map": "Domain of Istan"
+   },
+   {
+      "Name": "Chalon Docks Waypoint",
+      "Code": "[&BAkLAAA=]",
+      "Map": "Domain of Istan"
+   },
+   {
+      "Name": "Champion's Dawn Waypoint",
+      "Code": "[&BBoLAAA=]",
+      "Map": "Domain of Istan"
+   },
+   {},
+   {},
+   {
+      "Name": "Anniogel Encampment Waypoint",
+      "Code": "[&BCULAAA=]",
+      "Map": "Sandswept Isles"
+   },
+   {
+      "Name": "Atholma Waypoint",
+      "Code": "[&BEMLAAA=]",
+      "Map": "Sandswept Isles"
+   },
+   {},
+   {},
+   {
+      "Name": "Apizmic Grounds Waypoint",
+      "Code": "[&BFALAAA=]",
+      "Map": "Domain of Kourna"
+   },
+   {
+      "Name": "Allied Encampment Waypoint",
+      "Code": "[&BFcLAAA=]",
+      "Map": "Domain of Kourna"
+   },
+   {},
+   {},
+   {
+      "Name": "Yatendi Village Waypoint",
+      "Code": "[&BH4LAAA=]",
+      "Map": "Jahai Bluffs"
+   },
+   {
+      "Name": "Soul's Vendetta Waypoint",
+      "Code": "[&BIILAAA=]",
+      "Map": "Jahai Bluffs"
+   },
+   {
+      "Name": "Venta Pass Waypoint",
+      "Code": "[&BJMLAAA=]",
+      "Map": "Jahai Bluffs"
+   },
+   {
+      "Name": "Reclaimed Chantry Waypoint",
+      "Code": "[&BJkLAAA=]",
+      "Map": "Jahai Bluffs"
+   },
+   {},
+   {},
+   {
+      "Name": "Shipwreck Peak Waypoint",
+      "Code": "[&BMAHAAA=]",
+      "Map": "Verdant Brink"
+   },
+   {
+      "Name": "Mellaggan's Valor Waypoint",
+      "Code": "[&BNUHAAA=]",
+      "Map": "Verdant Brink"
+   },
+   {
+      "Name": "Shipwreck Peak Waypoint",
+      "Code": "[&BN4HAAA=]",
+      "Map": "Verdant Brink"
+   },
+   {
+      "Name": "Jaka Itzel Waypoint",
+      "Code": "[&BOAHAAA=]",
+      "Map": "Verdant Brink"
+   },
+   {
+      "Name": "Faren's Flyer Waypoint",
+      "Code": "[&BO8HAAA=]",
+      "Map": "Verdant Brink"
+   },
+   {
+      "Name": "Shrouded Ruins Waypoint",
+      "Code": "[&BAEIAAA=]",
+      "Map": "Verdant Brink"
+   },
+   {
+      "Name": "Pact Encampment Waypoint",
+      "Code": "[&BAgIAAA=]",
+      "Map": "Verdant Brink"
+   },
+   {
+      "Name": "Treacherous Path Waypoint",
+      "Code": "[&BBwIAAA=]",
+      "Map": "Verdant Brink"
+   },
+   {},
+   {},
+   {
+      "Name": "Forgotten City Waypoint",
+      "Code": "[&BMYHAAA=]",
+      "Map": "Auric Basin"
+   },
+   {
+      "Name": "Wanderer's Waypoint",
+      "Code": "[&BNYHAAA=]",
+      "Map": "Auric Basin"
+   },
+   {
+      "Name": "Northwatch Waypoint",
+      "Code": "[&BN0HAAA=]",
+      "Map": "Auric Basin"
+   },
+   {
+      "Name": "Southwatch Waypoint",
+      "Code": "[&BAIIAAA=]",
+      "Map": "Auric Basin"
+   },
+   {
+      "Name": "Westwatch Waypoint",
+      "Code": "[&BAYIAAA=]",
+      "Map": "Auric Basin"
+   },
+   {
+      "Name": "Chak Hollow Waypoint",
+      "Code": "[&BEkIAAA=]",
+      "Map": "Auric Basin"
+   },
+   {
+      "Name": "Eastwatch Waypoint",
+      "Code": "[&BGwIAAA=]",
+      "Map": "Auric Basin"
+   },
+   {},
+   {},
+   {
+      "Name": "Ogre Camp Waypoint",
+      "Code": "[&BMwHAAA=]",
+      "Map": "Tangled Depths"
+   },
+   {
+      "Name": "Ley-Line Confluence Waypoint",
+      "Code": "[&BPUHAAA=]",
+      "Map": "Tangled Depths"
+   },
+   {
+      "Name": "SCAR Camp Waypoint",
+      "Code": "[&BAAIAAA=]",
+      "Map": "Tangled Depths"
+   },
+   {
+      "Name": "Rata Novus Waypoint",
+      "Code": "[&BAMIAAA=]",
+      "Map": "Tangled Depths"
+   },
+   {
+      "Name": "Teku Nuhoch Waypoint",
+      "Code": "[&BAwIAAA=]",
+      "Map": "Tangled Depths"
+   },
+   {
+      "Name": "Order of Whispers Camp Waypoint",
+      "Code": "[&BA4IAAA=]",
+      "Map": "Tangled Depths"
+   },
+   {
+      "Name": "Dragon's Passage Waypoint",
+      "Code": "[&BIgIAAA=]",
+      "Map": "Tangled Depths"
+   },
+   {},
+   {},
+   {
+      "Name": "Pact Base Camp Waypoint",
+      "Code": "[&BBAIAAA=]",
+      "Map": "Dragon's Stand"
+   },
+   {
+      "Name": "Central Forward Camp Waypoint",
+      "Code": "[&BC4IAAA=]",
+      "Map": "Dragon's Stand"
+   },
+   {
+      "Name": "Southern Forward Camp Waypoint",
+      "Code": "[&BE8IAAA=]",
+      "Map": "Dragon's Stand"
+   },
+   {
+      "Name": "Northern Forward Camp Waypoint",
+      "Code": "[&BFIIAAA=]",
+      "Map": "Dragon's Stand"
+   },
+   {
+      "Name": "Central Advance Camp Waypoint",
+      "Code": "[&BFMIAAA=]",
+      "Map": "Dragon's Stand"
+   },
+   {
+      "Name": "Dragon's Domain Southern Waypoint",
+      "Code": "[&BFcIAAA=]",
+      "Map": "Dragon's Stand"
+   },
+   {
+      "Name": "Southern Advance Camp Waypoint",
+      "Code": "[&BGUIAAA=]",
+      "Map": "Dragon's Stand"
+   },
+   {
+      "Name": "Pact Base Camp Southern Waypoint",
+      "Code": "[&BHoIAAA=]",
+      "Map": "Dragon's Stand"
+   },
+   {
+      "Name": "Dragon's Domain Central Waypoint",
+      "Code": "[&BJcIAAA=]",
+      "Map": "Dragon's Stand"
+   },
+   {
+      "Name": "Dragon's Domain Northern Waypoint",
+      "Code": "[&BK4IAAA=]",
+      "Map": "Dragon's Stand"
+   },
+   {
+      "Name": "Northern Advance Camp Waypoint",
+      "Code": "[&BAAJAAA=]",
+      "Map": "Dragon's Stand"
+   },
+   {},
+   {},
+   {
+      "Name": "Depths of the Maw Waypoint",
+      "Code": "[&BD8JAAA=]",
+      "Map": "Bloodstone Fen"
+   },
+   {
+      "Name": "Ground Zero Waypoint",
+      "Code": "[&BEEJAAA=]",
+      "Map": "Bloodstone Fen"
+   },
+   {
+      "Name": "Soulkeeper's Airship Waypoint",
+      "Code": "[&BEsJAAA=]",
+      "Map": "Bloodstone Fen"
+   },
+   {
+      "Name": "Zealot's Overlook Waypoint",
+      "Code": "[&BE4JAAA=]",
+      "Map": "Bloodstone Fen"
+   },
+   {},
+   {},
+   {
+      "Name": "Prosperity Waypoint",
+      "Code": "[&BHoHAAA=]",
+      "Map": "Dry Top"
+   },
+   {
+      "Name": "Dry Top Entry Waypoint",
+      "Code": "[&BIAHAAA=]",
+      "Map": "Dry Top"
+   },
+   {
+      "Name": "Vine Bridge Waypoint",
+      "Code": "[&BIYHAAA=]",
+      "Map": "Dry Top"
+   },
+   {
+      "Name": "Restoration Refuge Waypoint",
+      "Code": "[&BIgHAAA=]",
+      "Map": "Dry Top"
+   },
+   {
+      "Name": "Repair Station Waypoint",
+      "Code": "[&BJcHAAA=]",
+      "Map": "Dry Top"
+   },
+   {},
+   {},
+   {
+      "Name": "Camp Resolve Waypoint",
+      "Code": "[&BH8HAAA=]",
+      "Map": "The Silverwastes"
+   },
+   {
+      "Name": "Hidden Depths Waypoint",
+      "Code": "[&BKwHAAA=]",
+      "Map": "The Silverwastes"
+   },
+   {
+      "Name": "Dry Dock Grotto Waypoint",
+      "Code": "[&BLoHAAA=]",
+      "Map": "The Silverwastes"
+   },
+   {},
+   {},
+   {
+      "Name": "Scratch Gate Waypoint",
+      "Code": "[&BFUJAAA=]",
+      "Map": "Ember Bay"
+   },
+   {
+      "Name": "Promontory Waypoint",
+      "Code": "[&BF8JAAA=]",
+      "Map": "Ember Bay"
+   },
+   {
+      "Name": "Crumbling Trail Waypoint",
+      "Code": "[&BGAJAAA=]",
+      "Map": "Ember Bay"
+   },
+   {
+      "Name": "Castaway Circus Waypoint",
+      "Code": "[&BHgJAAA=]",
+      "Map": "Ember Bay"
+   },
+   {},
+   {},
+   {
+      "Name": "Mariner's Landing Waypoint",
+      "Code": "[&BL0JAAA=]",
+      "Map": "Draconis Mons"
+   },
+   {
+      "Name": "Heathen's Hold Waypoint",
+      "Code": "[&BM0JAAA=]",
+      "Map": "Draconis Mons"
+   },
+   {
+      "Name": "Ancient Hollow Waypoint",
+      "Code": "[&BNUJAAA=]",
+      "Map": "Draconis Mons"
+   },
+   {},
+   {},
+   {
+      "Name": "Sorrow's Eclipse Waypoint",
+      "Code": "[&BH0JAAA=]",
+      "Map": "Bitterfrost Frontier"
+   },
+   {
+      "Name": "Koda's Flame Waypoint",
+      "Code": "[&BIEJAAA=]",
+      "Map": "Bitterfrost Frontier"
+   }
 ]
