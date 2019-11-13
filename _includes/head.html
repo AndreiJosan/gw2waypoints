@@ -1,11 +1,25 @@
 <head>
-  <title></title>
+  <title>GW2WP - Guild Wars 2 Waypoint Codes</title>
   <meta charset="utf-8">
   <meta itemprop="description" name="description" content="" />
 
   <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=yes" />
   <meta http-equiv="content-type" content="text/html; charset=utf-8" />
-  <link rel="stylesheet" href="{{ '/assets/css/style.css' }}">
+  <meta itemprop="description" name="description" content="{{ site.description }}" />
 
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' }}">
   <link href="https://fonts.googleapis.com/css?family=PT+Serif:400,700&display=swap" rel="stylesheet">
+
+  <meta property="og:url"                content='{{ page.url | absolute_url }}' />
+  <meta property="og:type"               content="website" />
+  <meta property="og:title"              content='{{ page.title }}' />
+  <meta property="og:description"        content='{{ site.description }}' />
+
+  <meta property="og:image"              content='{{ site.url }}/assets/img/cover.png' />
+  <meta name="twitter:image"             content='{{ site.url }}/assets/img/cover.png' />
+
+  <meta name="twitter:card"              content="summary_large_image">
+  <meta name="twitter:creator"           content="@josanUX">
+  <meta name="twitter:title"             content="{{ page.title }}">
+  <meta name="twitter:description"       content="{{ site.description }}">
 </head>
