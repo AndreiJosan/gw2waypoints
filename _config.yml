@@ -2,7 +2,7 @@ title: GW2WP - Guild Wars 2 Waypoint Codes
 description: Easily search and copy Guild Wars 2 waypoint codes for easy access within the game.
 baseurl: ""
 permalink: "/:title"
-url: ""
+url: "https://gw2waypoints.com"
 
 plugins:
   - jekyll-autoprefixer
