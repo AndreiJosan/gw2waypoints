@@ -1,0 +1,2 @@
+# Redirect default Netlify subdomain to primary domain
+https://gw2wp.netlify.com/* https://www.gw2waypoints.com/:splat 301!
