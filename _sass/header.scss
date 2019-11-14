@@ -5,6 +5,11 @@ header {
   .site-logo {
     display: inline-block;
     line-height: 0;
+    max-width: 100%;
+
+    svg {
+      max-width: 100%;
+    }
   }
 
   h2 {

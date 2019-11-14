@@ -9,6 +9,8 @@
   margin-bottom: 0.5rem;
   cursor: pointer;
   text-shadow: $text-shadow;
+  flex-direction: row;
+  flex-wrap: wrap;
 
   &:hover {
     svg {
