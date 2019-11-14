@@ -2993,5 +2993,27 @@
       "Name": "Koda's Flame Waypoint",
       "Code": "[&BIEJAAA=]",
       "Map": "Bitterfrost Frontier"
+   },
+   {},
+   {},
+   {
+      "Name": "History's End Waypoint",
+      "Code": "[&BLsLAAA=]",
+      "Map": "Thunderhead Peaks"
+   },
+   {
+      "Name": "Revolution's Heart Waypoint",
+      "Code": "[&BKYLAAA=]",
+      "Map": "Thunderhead Peaks"
+   },
+   {
+      "Name": "Moorage Waypoint",
+      "Code": "[&BLoLAAA=]",
+      "Map": "Thunderhead Peaks"
+   },
+   {
+      "Name": "Observation Deck Waypoint",
+      "Code": "[&BLkLAAA=]",
+      "Map": "Thunderhead Peaks"
    }
 ]
