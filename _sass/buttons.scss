@@ -9,6 +9,7 @@
   box-sizing: border-box;
   display: inline-block;
   transition: $transition;
+  cursor: pointer;
 
   svg {
     position: absolute;
