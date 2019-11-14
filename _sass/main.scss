@@ -4,8 +4,10 @@ body {
   background-position: top center;
   background-attachment: fixed;
   overflow: auto !important;
+  position: relative;
 }
 
 #results-container {
-  margin-bottom: 4rem;
+  margin-bottom: 3rem;
+  z-index: 2;
 }
