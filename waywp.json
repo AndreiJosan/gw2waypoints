@@ -3015,5 +3015,17 @@
       "Name": "Observation Deck Waypoint",
       "Code": "[&BLkLAAA=]",
       "Map": "Thunderhead Peaks"
+   },
+   {},
+   {},
+   {
+      "Name": "Bazaar Docks Waypoint",
+      "Code": "[&BBwHAAA=]",
+      "Map": "Labyrinthine Cliffs"
+   },
+   {
+      "Name": "Sky Docks Waypoint",
+      "Code": "[&BB0HAAA=]",
+      "Map": "Labyrinthine Cliffs"
    }
 ]
