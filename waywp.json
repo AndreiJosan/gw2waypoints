@@ -92,8 +92,13 @@
    {},
    {},
    {
+      "Name": "Charrgate Haven Waypoint",
+      "Code": "[&BNkAAAA=]",
+      "Map": "Diessa Plateau"
+   },
+   {
       "Name": "Blasted Moors Waypoint",
-      "Code": "[&BNsAAAA=]",
+      "Code": "[&BNoAAAA=]",
       "Map": "Diessa Plateau"
    },
    {
@@ -517,11 +522,6 @@
    {
       "Name": "Phasmatis Waypoint",
       "Code": "[&BMgDAAA=]",
-      "Map": "Plains of Ashford"
-   },
-   {
-      "Name": "Vault Waypoint",
-      "Code": "[&BHIEAAA=]",
       "Map": "Plains of Ashford"
    },
    {
@@ -2447,6 +2447,11 @@
       "Code": "[&BDMEAAA=]",
       "Map": "Lion's Arch"
    },
+   {
+      "Name": "Aerodrome Waypoint",
+      "Code": "[&BCAJAAA=]",
+      "Map": "Lion's Arch"
+   },
    {},
    {},
    {
@@ -2993,5 +2998,187 @@
       "Name": "Koda's Flame Waypoint",
       "Code": "[&BIEJAAA=]",
       "Map": "Bitterfrost Frontier"
+   },
+   {},
+   {},
+   {
+      "Name": "History's End Waypoint",
+      "Code": "[&BLsLAAA=]",
+      "Map": "Thunderhead Peaks"
+   },
+   {
+      "Name": "Revolution's Heart Waypoint",
+      "Code": "[&BKYLAAA=]",
+      "Map": "Thunderhead Peaks"
+   },
+   {
+      "Name": "Moorage Waypoint",
+      "Code": "[&BLoLAAA=]",
+      "Map": "Thunderhead Peaks"
+   },
+   {
+      "Name": "Observation Deck Waypoint",
+      "Code": "[&BLkLAAA=]",
+      "Map": "Thunderhead Peaks"
+   },
+   {},
+   {},
+   {
+      "Name": "Bazaar Docks Waypoint",
+      "Code": "[&BBwHAAA=]",
+      "Map": "Labyrinthine Cliffs"
+   },
+   {
+      "Name": "Sky Docks Waypoint",
+      "Code": "[&BB0HAAA=]",
+      "Map": "Labyrinthine Cliffs"
+   },
+   {},
+   {},
+   {
+      "Name": "Ascension Bay Waypoint",
+      "Code": "[&BNMEAAA=]",
+      "Map": "Borderlands: Blue"
+   },
+   {
+      "Name": "GreenBorder Waypoint (blue)",
+      "Code": "[&BNQEAAA=]",
+      "Map": "Borderlands: Blue"
+   },
+   {
+      "Name": "Garrison Waypoint (blue)",
+      "Code": "[&BNUEAAA=]",
+      "Map": "Borderlands: Blue"
+   },
+   {
+      "Name": "RedBorder Waypoint (blue)",
+      "Code": "[&BNYEAAA=]",
+      "Map": "Borderlands: Blue"
+   },
+   {
+      "Name": "Askalion Hills Waypoint",
+      "Code": "[&BNcEAAA=]",
+      "Map": "Borderlands: Blue"
+   },
+   {
+      "Name": "Citadel Waypoint (blue)",
+      "Code": "[&BNgEAAA=]",
+      "Map": "Borderlands: Blue"
+   },
+   {},
+   {},
+   {
+      "Name": "Blue World Hill Waypoint",
+      "Code": "[&BPoDAAA=]",
+      "Map": "Eternal Battlegrounds"
+   },
+   {
+      "Name": "Red World Hill Waypoint",
+      "Code": "[&BPsDAAA=]",
+      "Map": "Eternal Battlegrounds"
+   },
+   {
+      "Name": "Green World Hill Waypoint",
+      "Code": "[&BPwDAAA=]",
+      "Map": "Eternal Battlegrounds"
+   },
+   {
+      "Name": "Stonemist Waypoint",
+      "Code": "[&BL0EAAA=]",
+      "Map": "Eternal Battlegrounds"
+   },
+   {
+      "Name": "Overlook Waypoint",
+      "Code": "[&BL4EAAA=]",
+      "Map": "Eternal Battlegrounds"
+   },
+   {
+      "Name": "Valley Waypoint",
+      "Code": "[&BL8EAAA=]",
+      "Map": "Eternal Battlegrounds"
+   },
+   {
+      "Name": "Lowlands Waypoint",
+      "Code": "[&BMAEAAA=]",
+      "Map": "Eternal Battlegrounds"
+   },
+   {},
+   {
+      "Name": "Obsidian Sanctum Waypoint (blue)",
+      "Code": "[&BAIHAAA=]",
+      "Map": "Eternal Battlegrounds"
+   },
+   {
+      "Name": "Obsidian Sanctum Waypoint (green)",
+      "Code": "[&BAMHAAA=]",
+      "Map": "Eternal Battlegrounds"
+   },
+   {
+      "Name": "Obsidian Sanctum Waypoint (red)",
+      "Code": "[&BAQHAAA=]",
+      "Map": "Eternal Battlegrounds"
+   },
+   {},
+   {},
+   {
+      "Name": "Dreadfall Bay Waypoint",
+      "Code": "[&BNkEAAA=]",
+      "Map": "Borderlands: Green"
+   },
+   {
+      "Name": "Citadel Waypoint (green)",
+      "Code": "[&BNoEAAA=]",
+      "Map": "Borderlands: Green"
+   },
+   {
+      "Name": "Garrison Waypoint (green)",
+      "Code": "[&BNsEAAA=]",
+      "Map": "Borderlands: Green"
+   },
+   {
+      "Name": "RedBorder Waypoint (green)",
+      "Code": "[&BNwEAAA=]",
+      "Map": "Borderlands: Green"
+   },
+   {
+      "Name": "Shadaran Hills Waypoint",
+      "Code": "[&BN0EAAA=]",
+      "Map": "Borderlands: Green"
+   },
+   {
+      "Name": "BlueBorder Waypoint (green)",
+      "Code": "[&BN4EAAA=]"
+   },
+   {},
+   {},
+   {
+      "Name": "GreenBorder Waypoint (red)",
+      "Code": "[&BMcEAAA=]",
+      "Map": "Borderlands: Red"
+   },
+   {
+      "Name": "Dreaming Bay Waypoint",
+      "Code": "[&BMgEAAA=]",
+      "Map": "Borderlands: Red"
+   },
+   {
+      "Name": "BlueBorder Waypoint (red)",
+      "Code": "[&BMkEAAA=]",
+      "Map": "Borderlands: Red"
+   },
+   {
+      "Name": "Etheron Hills Waypoint",
+      "Code": "[&BMoEAAA=]",
+      "Map": "Borderlands: Red"
+   },
+   {
+      "Name": "Garrison Waypoint (red)",
+      "Code": "[&BMsEAAA=]",
+      "Map": "Borderlands: Red"
+   },
+   {
+      "Name": "Citadel Waypoint (red)",
+      "Code": "[&BMwEAAA=]",
+      "Map": "Borderlands: Red"
    }
 ]
