@@ -808,11 +808,6 @@
       "Map": "Kessex Hills"
    },
    {
-      "Name": "Meadows Waypoint",
-      "Code": "[&BAUAAAA=]",
-      "Map": "Kessex Hills"
-   },
-   {
       "Name": "Halacon Waypoint",
       "Code": "[&BAYAAAA=]",
       "Map": "Kessex Hills"
@@ -835,11 +830,6 @@
    {
       "Name": "Shadowheart Site Waypoint",
       "Code": "[&BAwAAAA=]",
-      "Map": "Kessex Hills"
-   },
-   {
-      "Name": "Moogooloo Waypoint",
-      "Code": "[&BA4AAAA=]",
       "Map": "Kessex Hills"
    },
    {
