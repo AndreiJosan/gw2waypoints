@@ -3170,5 +3170,22 @@
       "Name": "Citadel Waypoint (red)",
       "Code": "[&BMwEAAA=]",
       "Map": "Borderlands: Red"
+   },
+   {},
+   {},
+   {
+      "Name": "Blood Keep Waypoint",
+      "Code": "[&BBsMAAA=]",
+      "Map": "Grothmar Valley"
+   },
+   {
+      "Name": "Dalada Forest Waypoint",
+      "Code": "[&BA4MAAA=]",
+      "Map": "Grothmar Valley"
+   },
+   {
+      "Name": "Wardowns Waypoint",
+      "Code": "[&BPgLAAA=]",
+      "Map": "Grothmar Valley"
    }
 ]
